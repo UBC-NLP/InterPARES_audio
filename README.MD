@@ -9,4 +9,6 @@
 <img src="IntePARES_Audio_workflow.png" alt="InterPARES_Audio.jpg"/>
 
 ## Examples
- [meeting_reports](https://github.com/UBC-NLP/InterPARES_audio/blob/main/meeting_reports/A05195/meeting_analysis_A05195-20251010_174134-English.md)
+ [Meering report, Markdown](https://github.com/UBC-NLP/InterPARES_audio/blob/main/meeting_reports/A05195/meeting_analysis_A05195-20251010_174134-English.md)
+
+ [Meering report, PDF](https://github.com/UBC-NLP/InterPARES_audio/blob/main/meeting_reports/A05195/meeting_analysis_A05195-20251010_174134-English.pdf)

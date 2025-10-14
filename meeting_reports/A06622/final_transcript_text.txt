@@ -1,0 +1,1578 @@
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.
+[1.11s] (da – Danish) SPEAKER_00: Mange store organisationer har deres sæde i Paris.
+[4.69s] (da – Danish) SPEAKER_00: En af de mest kendte er jo nok UNESCO.
+[7.44s] (da – Danish) SPEAKER_00: som for 5-6 år siden måtte flytte til et nyt hus.
+[11.54s] (da – Danish) SPEAKER_00: fordi man simpelthen sprængte ramerne.
+[14.07s] (da – Danish) SPEAKER_00: Dengang var der mellem 50 og 60.
+[16.32s] (da – Danish) SPEAKER_00: nationer tilknyttet UNESCO,
+[18.37s] (da – Danish) SPEAKER_00: I dag er der 130.
+[21.39s] (da – Danish) SPEAKER_00: Og det vil sige, at der her i UNESCO hovedkvarteret på
+[25.29s] (fr – French) SPEAKER_00: Place Fontainois, Paris.
+[27.72s] (da – Danish) SPEAKER_00: er samlet omkring 1500 mennesker.
+[30.64s] (zh – Chinese) SPEAKER_00: 大家能夠多多努力
+[32.57s] (da – Danish) SPEAKER_00: med de mange.
+[33.71s] (da – Danish) SPEAKER_00: forskellige opgaver, som UNESCO stiller dem.
+[37.80s] (da – Danish) SPEAKER_00: Det er meget svært.
+[38.78s] (da – Danish) SPEAKER_00: Jeg tror næsten, det er umuligt at give et indtryk.
+[41.48s] (en – English) SPEAKER_00: Ah.
+[42.32s] (da – Danish) SPEAKER_00: det store arbejde, der udføres her i huset.
+[44.68s] (da – Danish) SPEAKER_00: selvom man havde flere timer til rådighed.
+[48.04s] (da – Danish) SPEAKER_00: Så vi har siddet sådan og sludret sammen her.
+[50.84s] (da – Danish) SPEAKER_00: Mr. Rex Keating og jeg, der er leder af Informationstjenesten her i UNESCO.
+[56.76s] (da – Danish) SPEAKER_00: fundet frem til, at vi...
+[58.06s] (da – Danish) SPEAKER_00: sådan set bare vedtrække en enkelt ting.
+[60.38s] (en – English) SPEAKER_00: time.
+[61.89s] (da – Danish) SPEAKER_00: og det skulle være det, som man kalder den nubiske kampagne.
+[66.64s] (da – Danish) SPEAKER_00: den store aktion for at bevare de kulturelle
+[70.06s] (da – Danish) SPEAKER_00: værdier i Nubien.
+[72.00s] (de – German) SPEAKER_00: in die gamle Ägypten.
+[75.43s] (en – English) SPEAKER_00: Mr. Keating, we concentrate.
+[78.23s] (en – English) SPEAKER_00: on your Nubian campaign.
+[81.44s] (en – English) SPEAKER_00: Yes, well, this is something which
+[82.97s] (en – English) SPEAKER_01: has given us considerable satisfaction.
+[85.81s] (en – English) SPEAKER_01: here in UNESCO because
+[88.30s] (en – English) SPEAKER_01: It has been.
+[90.51s] (en – English) SPEAKER_01: crowned with, if I may say, success.
+[93.55s] (en – English) SPEAKER_01: It was back in March 1960.
+[96.03s] (en – English) SPEAKER_01: That UNESCO...
+[97.21s] (en – English) SPEAKER_01: was appealed to by the governments of the United Arab Republic and the Sudan.
+[102.07s] (en – English) SPEAKER_01: to save the monuments.
+[104.35s] (en – English) SPEAKER_01: of Nubia in the Sudan and in
+[107.51s] (en – English) SPEAKER_01: Egypt
+[108.42s] (en – English) SPEAKER_01: which were threatened, which would be destroyed, in fact.
+[111.42s] (en – English) SPEAKER_01: by the waters of the high dam.
+[114.46s] (en – English) SPEAKER_01: Because if you can imagine,
+[116.79s] (en – English) SPEAKER_01: Behind the high dam at...
+[119.40s] (fr – French) SPEAKER_01: euh...
+[120.35s] (en – English) SPEAKER_01: Aswan in Egypt.
+[122.10s] (en – English) SPEAKER_01: a great lake about 300 miles long.
+[124.55s] (en – English) SPEAKER_01: will come into existence.
+[126.68s] (en – English) SPEAKER_01: And it so happens that this lake
+[129.12s] (en – English) SPEAKER_01: coincides with the
+[131.13s] (en – English) SPEAKER_01: ancient
+[132.84s] (en – English) SPEAKER_01: area known as Nubia
+[135.20s] (en – English) SPEAKER_01: Kush one time, the ancient people called it Kush.
+[139.59s] (en – English) SPEAKER_01: And this particular area has been very much neglected
+[142.89s] (en – English) SPEAKER_01: so far as archaeologists were concerned, particularly that part in the Sudan,
+[148.33s] (en – English) SPEAKER_01: and it
+[149.41s] (en – English) SPEAKER_01: turned out that it was
+[151.37s] (en – English) SPEAKER_01: There were hundreds of sites.
+[153.10s] (en – English) SPEAKER_01: literally.
+[153.93s] (en – English) SPEAKER_01: awaiting excavation. There were towns, there were cemeteries,
+[157.19s] (en – English) SPEAKER_01: There were prehistoric remains, there were churches, there were great fortresses and so on.
+[162.44s] (en – English) SPEAKER_01: And all these were
+[164.39s] (en – English) SPEAKER_01: Do
+[165.19s] (en – English) SPEAKER_01: or threatened and were due to be destroyed unless something could be done to save them.
+[169.24s] (en – English) SPEAKER_01: There were also a number of temples above
+[171.50s] (en – English) SPEAKER_01: surface of the ground and these obviously would have to be removed.
+[174.89s] (en – English) SPEAKER_01: so that the campaign, in a sense, divided itself into two parts.
+[180.09s] (en – English) SPEAKER_01: the excavation.
+[182.10s] (en – English) SPEAKER_01: seeking of new knowledge.
+[183.85s] (en – English) SPEAKER_01: and the other was the preservation of the temples.
+[187.73s] (en – English) SPEAKER_01: Well, the
+[189.42s] (en – English) SPEAKER_01: excavation side of it,
+[191.90s] (en – English) SPEAKER_01: or has been going on now ever since March 1960.
+[196.73s] (en – English) SPEAKER_01: with very considerable success.
+[199.59s] (en – English) SPEAKER_01: that have been
+[201.21s] (en – English) SPEAKER_01: something like,
+[203.00s] (en – English) SPEAKER_01: I can't remember the exact number. I think round about 30 expeditions altogether from about 24 countries.
+[209.74s] (en – English) SPEAKER_01: Have Doug.
+[210.60s] (en – English) SPEAKER_01: in New Zealand are still digging
+[213.38s] (en – English) SPEAKER_01: It will be their last.
+[215.31s] (en – English) SPEAKER_01: They're lost.
+[217.14s] (en – English) SPEAKER_01: possibility.
+[218.43s] (en – English) SPEAKER_01: after
+[219.81s] (en – English) SPEAKER_01: that we see now, it will be
+[223.79s] (en – English) SPEAKER_01: March or April of next year. After that, the waters begin to rise, and that'll be the end of the digging.
+[230.17s] (en – English) SPEAKER_01: Very prominent among them has been the joint Scandinavian expedition. It was the biggest expedition working in Nubia. It was working in the Sudanese part of Nubia.
+[238.24s] (en – English) SPEAKER_01: and they have,
+[239.64s] (en – English) SPEAKER_01: been extremely successful in their operations.
+[243.32s] (en – English) SPEAKER_01: I had the good fortune to
+[245.24s] (en – English) SPEAKER_01: work with them for a couple of weeks two years ago and I hope to
+[248.45s] (en – English) SPEAKER_01: be with them again in February of this year.
+[251.67s] (en – English) SPEAKER_01: for a short time.
+[254.42s] (en – English) SPEAKER_01: Well, as I say, that side of it has been extremely successful. A great deal of new knowledge has been added to ancient history.
+[259.72s] (en – English) SPEAKER_01: that part of the world.
+[262.83s] (en – English) SPEAKER_01: Where the temples were concerned, it was much more difficult. It's not easy to tear down
+[267.58s] (en – English) SPEAKER_01: re-erect a building which was perhaps constructed anything up to 3 500 years ago
+[272.49s] (en – English) SPEAKER_01: The stones are very friable.
+[274.62s] (en – English) SPEAKER_01: and it's a very harsh climate.
+[277.41s] (en – English) SPEAKER_01: But the fact remains that a lot of this has already been done successfully.
+[282.06s] (en – English) SPEAKER_01: The large temple of Kalabsha, for example, has been dismantled stone by stone and re-erected.
+[287.13s] (en – English) SPEAKER_01: done by the Federal German Republic.
+[290.74s] (en – English) SPEAKER_01: A number of the smaller temples have been taken apart. Several of them have been re-erected. A number of the others are lying
+[297.30s] (en – English) SPEAKER_01: in boxes and crates awaiting re-erection
+[299.97s] (en – English) SPEAKER_01: when it's decided where they'll be put.
+[302.58s] (en – English) SPEAKER_01: in Sudanese Nubia,
+[305.15s] (en – English) SPEAKER_01: One of the temples, there are only three temples in Sudanese Nubia.
+[308.27s] (en – English) SPEAKER_01: has been removed.
+[309.43s] (en – English) SPEAKER_01: and is now in Khartoum.
+[311.34s] (en – English) SPEAKER_01: awaiting re-erection there.
+[314.36s] (en – English) SPEAKER_01: So that it's pretty safe to say that of the 20 or so temples and shrines in Nubia,
+[318.88s] (en – English) SPEAKER_01: All of them.
+[319.85s] (en – English) SPEAKER_01: have been or will be saved.
+[322.56s] (en – English) SPEAKER_01: The great problem
+[323.66s] (en – English) SPEAKER_01: where the temples are concerned was that of Abu Simbel.
+[326.58s] (en – English) SPEAKER_01: Apple symbol, the two.
+[328.13s] (en – English) SPEAKER_01: huge rock-cut temples.
+[330.54s] (en – English) SPEAKER_01: which are absolutely unique. There's nothing like them in the world.
+[333.92s] (en – English) SPEAKER_01: anywhere else in the world.
+[336.08s] (en – English) SPEAKER_01: They are in Egyptian Ube, just inside the Seudid
+[338.88s] (en – English) SPEAKER_01: border with Sudan.
+[341.40s] (en – English) SPEAKER_01: And
+[342.71s] (en – English) SPEAKER_01: of extremely friable sandstone,
+[345.34s] (en – English) SPEAKER_01: They are carved out of the mountain.
+[348.15s] (en – English) SPEAKER_01: And
+[349.06s] (en – English) SPEAKER_01: to give you an idea of the size,
+[350.95s] (en – English) SPEAKER_01: It's been estimated that the weight of the largest temple
+[354.12s] (en – English) SPEAKER_01: is of the order of a quarter of a million tons.
+[359.01s] (en – English) SPEAKER_01: Well, the scheme finally adopted for the saving of these two temples was that put forward by a Swedish firm.
+[365.85s] (en – English) SPEAKER_01: An international group of international experts examined it and decided it was feasible and possible to do.
+[372.34s] (en – English) SPEAKER_01: Although it's quite obvious that
+[374.57s] (en – English) SPEAKER_01: Oldie.
+[376.11s] (en – English) SPEAKER_01: Old V...
+[377.64s] (en – English) SPEAKER_01: knowledge that can possibly be used
+[379.67s] (en – English) SPEAKER_01: technological and otherwise scientific will be needed
+[382.47s] (en – English) SPEAKER_01: in order to accomplish this successfully.
+[385.05s] (en – English) SPEAKER_01: What they will do is to
+[386.65s] (en – English) SPEAKER_01: cut away the top of the cliff,
+[388.65s] (en – English) SPEAKER_01: above the temples,
+[390.69s] (en – English) SPEAKER_01: They will then.
+[393.17s] (en – English) SPEAKER_01: remove the holes inside which are filled with carvings,
+[397.89s] (cy – Welsh) SPEAKER_01: a'r statwydau mawr sy'n ymwybyddu'r rhan ar y chanol.
+[401.89s] (en – English) SPEAKER_01: Peace by peace.
+[403.63s] (cy – Welsh) SPEAKER_01: gan eu llwytho nhw i mewn
+[405.81s] (en – English) SPEAKER_01: into slices
+[407.31s] (en – English) SPEAKER_01: of stone.
+[408.42s] (cy – Welsh) SPEAKER_01: bywydau i fwyaf 30 ton ac yna bydd yna'r rhain yn cael eu trafod.
+[412.66s] (cy – Welsh) SPEAKER_01: i leoliad parhau, tua 200 ffyd yn uchel,
+[416.00s] (en – English) SPEAKER_01: beyond the reach of the rising water.
+[418.28s] (en – English) SPEAKER_01: and re-erected.
+[419.88s] (en – English) SPEAKER_01: This applies to both of the temples.
+[423.02s] (en – English) SPEAKER_01: the work.
+[424.99s] (en – English) SPEAKER_01: will take,
+[426.66s] (en – English) SPEAKER_01: up till 1969, that is the estimated date for finishing.
+[432.13s] (en – English) SPEAKER_01: The great difficulty here was...
+[434.29s] (en – English) SPEAKER_01: the finding of the money, because it was going to cost a lot of money, $36 million.
+[439.98s] (en – English) SPEAKER_01: But I'm happy to say that, uh...
+[442.22s] (cy – Welsh) SPEAKER_01: y cyfnod heno, y cyd-draethol.
+[445.11s] (en – English) SPEAKER_01: of the UNESCO campaign was able to announce that enough money had now been pledged
+[449.90s] (en – English) SPEAKER_01: Bye.
+[451.07s] (en – English) SPEAKER_01: 47 countries to be exact.
+[453.04s] (en – English) SPEAKER_01: to make it possible for the contracts to be placed and the work to go ahead.
+[457.95s] (en – English) SPEAKER_01: $19 million, in fact, was available. Another $11.5 million has been given by the United Arab Republic.
+[465.17s] (en – English) SPEAKER_01: And so.
+[466.52s] (en – English) SPEAKER_01: They are now in the process of constructing
+[469.63s] (en – English) SPEAKER_01: a port, a river port.
+[471.18s] (en – English) SPEAKER_01: for the offloading of their materials.
+[473.48s] (en – English) SPEAKER_01: and an approach road.
+[475.30s] (en – English) SPEAKER_01: up to the top of the cliff.
+[477.66s] (en – English) SPEAKER_01: and the actual work of cutting the temples will begin
+[481.47s] (en – English) SPEAKER_01: They say.
+[482.55s] (en – English) SPEAKER_01: in May of next year.
+[486.27s] (en – English) SPEAKER_01: And it will last how long?
+[488.14s] (en – English) SPEAKER_01: you
+[488.17s] (en – English) SPEAKER_00: It will go on until 1969. That's the estimated date.
+[491.25s] (ru – Russian) SPEAKER_00: До свидания.
+[492.09s] (en – English) SPEAKER_00: And I understand, Mr. Keating, that you are especially interested
+[496.58s] (en – English) SPEAKER_00: in these things, you have written a book
+[499.62s] (en – English) SPEAKER_00: about Nubia.
+[502.28s] (en – English) SPEAKER_00: and it has been translated into Swedish.
+[505.88s] (en – English) SPEAKER_00: Another title.
+[506.84s] (de – German) SPEAKER_00: Nubien landet Sanforsvenner
+[508.91s] (da – Danish) SPEAKER_00: landet, som forsvinder
+[511.68s] (en – English) SPEAKER_00: Yes.
+[511.97s] (en – English) SPEAKER_01: That is so, yes, indeed.
+[513.93s] (en – English) SPEAKER_01: I know the area.
+[515.29s] (en – English) SPEAKER_01: very well.
+[516.63s] (en – English) SPEAKER_01: of I have
+[517.33s] (en – English) SPEAKER_01: I've known it for many years and I've made several visits there.
+[520.79s] (en – English) SPEAKER_01: And
+[522.87s] (en – English) SPEAKER_01: particularly working with the expeditions, and as I say, I'm going out there again.
+[526.36s] (en – English) SPEAKER_01: very shortly to see the beginning
+[528.25s] (en – English) SPEAKER_01: of the
+[529.67s] (en – English) SPEAKER_01: Abu Simbel operation.
+[531.66s] (en – English) SPEAKER_01: and to
+[533.04s] (en – English) SPEAKER_01: to see the expeditions.
+[535.00s] (en – English) SPEAKER_01: winding up their
+[536.47s] (en – English) SPEAKER_01: final season's work.
+[538.83s] (en – English) SPEAKER_01: because the dam will be closed as from...
+[541.80s] (en – English) SPEAKER_01: next spring.
+[543.15s] (en – English) SPEAKER_01: and thereafter the water will start to rise.
+[546.48s] (en – English) SPEAKER_01: and all the buildings that haven't
+[548.32s] (en – English) SPEAKER_01: been saved and all the sites that haven't been dug will inevitably
+[551.91s] (en – English) SPEAKER_01: be lost forever.
+[553.29s] (en – English) SPEAKER_01: course.
+[554.54s] (en – English) SPEAKER_01: you
+[554.58s] (en – English) SPEAKER_00: using that
+[555.99s] (en – English) SPEAKER_00: This order.
+[556.97s] (en – English) SPEAKER_00: work.
+[558.51s] (en – English) SPEAKER_00: is,
+[560.08s] (cy – Welsh) SPEAKER_00: a gweithgaredd
+[561.56s] (sv – Swedish) SPEAKER_00: För
+[562.15s] (en – English) SPEAKER_00: UNESCO.
+[563.40s] (en – English) SPEAKER_00: to continue.
+[565.39s] (en – English) SPEAKER_00: you
+[565.41s] (en – English) SPEAKER_01: Well, one of UNESCO's...
+[567.18s] (en – English) SPEAKER_01: uh,
+[568.31s] (en – English) SPEAKER_01: responsibilities.
+[569.68s] (en – English) SPEAKER_01: internationally.
+[570.93s] (en – English) SPEAKER_01: is the safeguarding of cultural property, which of course includes
+[575.87s] (en – English) SPEAKER_01: monuments of all kinds.
+[577.98s] (en – English) SPEAKER_01: which are threatened by
+[580.48s] (cy – Welsh) SPEAKER_01: ar un ffordd neu'r arall gyda dystrychu.
+[582.72s] (en – English) SPEAKER_01: It could be by...
+[584.41s] (en – English) SPEAKER_01: the building, if you like, of dams or
+[586.81s] (en – English) SPEAKER_01: the building of factories or the spread of cities,
+[590.00s] (en – English) SPEAKER_01: And this applies
+[591.33s] (en – English) SPEAKER_01: not only to the lesser developed countries, of course, but even more so to...
+[595.79s] (en – English) SPEAKER_01: Europe, where
+[597.41s] (en – English) SPEAKER_01: so much building is going on nowadays.
+[599.80s] (en – English) SPEAKER_01: that
+[600.81s] (en – English) SPEAKER_01: Many, many, many.
+[602.06s] (en – English) SPEAKER_01: famous monuments are threatened.
+[605.56s] (en – English) SPEAKER_01: And this is one of the concerns, I say, of UNESCO. And governments are themselves expressing very much
+[611.73s] (en – English) SPEAKER_01: I'm glad to say, a very great concern about
+[615.11s] (en – English) SPEAKER_01: the way things are going in the spread of the 20th century.
+[619.82s] (en – English) SPEAKER_01: So one would hope.
+[621.55s] (en – English) SPEAKER_01: that, uh,
+[623.16s] (en – English) SPEAKER_01: if ever UNESCO were approached again for similar.
+[627.12s] (en – English) SPEAKER_01: for a similar appeal.
+[629.03s] (en – English) SPEAKER_01: that it would
+[630.11s] (en – English) SPEAKER_01: do its best to answer it. I one would sincerely hope so. And I for one believe there wouldn't be any question about it.
+[636.91s] (en – English) SPEAKER_00: It's a question you meet in very many countries, I think.
+[640.44s] (en – English) SPEAKER_00: and it will be a very
+[641.97s] (en – English) SPEAKER_00: Expensive task.
+[643.88s] (en – English) SPEAKER_00: to do.
+[644.50s] (en – English) SPEAKER_00: Do you think that the world
+[646.82s] (en – English) SPEAKER_00: has the money.
+[649.92s] (en – English) SPEAKER_01: The world has money for many things.
+[652.59s] (en – English) SPEAKER_01: whether it has money for things of this nature
+[655.78s] (cy – Welsh) SPEAKER_01: neu bethau sy'n rhan yn unigol o'r hanes diwylliannol o dynion
+[660.16s] (en – English) SPEAKER_01: I don't know. I would like to think so. It's always possible to find money if money is needed.
+[665.56s] (en – English) SPEAKER_01: about the mere fact that
+[666.93s] (en – English) SPEAKER_01: to 47 countries.
+[669.38s] (en – English) SPEAKER_01: did respond to this appeal.
+[671.49s] (en – English) SPEAKER_01: and did give some of them very large sums of money towards something
+[675.23s] (en – English) SPEAKER_01: towards a monument which was not in their own
+[678.03s] (en – English) SPEAKER_01: territory.
+[679.01s] (en – English) SPEAKER_01: but which is far out in the desert and which relatively few people will ever be able to see.
+[683.91s] (en – English) SPEAKER_01: does show that there's some kind of conscience
+[686.98s] (en – English) SPEAKER_01: at work here.
+[688.53s] (en – English) SPEAKER_01: some kind of international conscience, which one would hope,
+[691.60s] (en – English) SPEAKER_01: would
+[692.77s] (en – English) SPEAKER_01: not only continue but would expand.

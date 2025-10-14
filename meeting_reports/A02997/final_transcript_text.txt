@@ -1,0 +1,1704 @@
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.
+[1.99s] (fr – French) SPEAKER_00: sont présents à cette table ronde, Monsieur Morris Mitchell, président de l'Encyclopédia Britannica Film et représentant ici la délégation des États-Unis,
+[12.50s] (fr – French) SPEAKER_00: et M. Ivan Andreev, représentant soviétique de la télévision.
+[20.94s] (en – English) SPEAKER_00: you
+[21.02s] (en – English) SPEAKER_02: This is Mitchell speaking. Mr. Andreev, we are here at this great UNESCO meeting in Tangier to talk about how we can exchange television program materials, among other things. What kind of television programs or films would you like us to send you from the United States?
+[39.43s] (ru – Russian) SPEAKER_01: ...господин Митчелл.
+[41.64s] (ru – Russian) SPEAKER_01: Господин Андреев, мы здесь собрались на заседание ЛНСКО, чтобы обсудить...
+[48.19s] (ru – Russian) SPEAKER_01: возможности обмена программ для телевидения
+[52.88s] (ru – Russian) SPEAKER_01: и киноматериалами с этой целью. Хотел бы я вас спросить...
+[57.98s] (ru – Russian) SPEAKER_01: Какие?
+[59.38s] (ru – Russian) SPEAKER_01: программы, телевидения или кинофильмы хотели бы вы получать из Соединенных Штатов?
+[68.86s] (ru – Russian) SPEAKER_04: Советские люди
+[71.29s] (ru – Russian) SPEAKER_04: проявляют живейший интерес к жизни американского народа.
+[76.90s] (en – English) SPEAKER_01: you
+[79.31s] (ru – Russian) SPEAKER_04: Поэтому обмен программами.
+[83.76s] (ru – Russian) SPEAKER_04: телевизионными между Советским Союзом.
+[86.90s] (ru – Russian) SPEAKER_04: и Соединёнными Штатами Америки для нас представляет исключительно интерес.
+[93.05s] (ru – Russian) SPEAKER_04: Мы желали бы получить...
+[96.61s] (ru – Russian) SPEAKER_04: от американских коллег.
+[99.83s] (ru – Russian) SPEAKER_04: телевизионные программы.
+[101.96s] (ru – Russian) SPEAKER_04: и кинофильмы.
+[104.74s] (ru – Russian) SPEAKER_04: рассказывающий о жизни, быте, труде, отдыхе американских граждан.
+[113.52s] (ru – Russian) SPEAKER_04: Нас очень интересовали бы
+[116.60s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[118.65s] (ru – Russian) SPEAKER_04: о географии, о природных богатствах Соединенных Штатов Америки.
+[126.81s] (ru – Russian) SPEAKER_04: Кинофильмы научно-познавательные, просветительные.
+[132.48s] (ru – Russian) SPEAKER_04: кинофильмы о технике,
+[136.11s] (ru – Russian) SPEAKER_04: и другие кинофильмы, которые бы расширяли познание советских людей
+[144.45s] (ru – Russian) SPEAKER_04: об Америке и жизни американского народа.
+[155.26s] (en – English) SPEAKER_01: I'm the interpreter translating the answer of the Soviet delegate to Mr. Mitchell's question.
+[162.67s] (en – English) SPEAKER_01: The Soviet people are most interested indeed in everything that happens in the United States.
+[169.51s] (en – English) SPEAKER_01: as far as the life in that country is concerned.
+[172.83s] (en – English) SPEAKER_01: That is why we are most keenly interested to proceed at an exchange of programs for television between the United States and the Soviet Union.
+[184.29s] (en – English) SPEAKER_01: we would be very glad to obtain from our friends in the United States
+[190.58s] (en – English) SPEAKER_01: television programs and any film material which would describe the kind of life, the work, the habits, the recreation of the citizens of the United States.
+[205.80s] (en – English) SPEAKER_01: We would certainly also be very interested in films dealing with subjects falling into the field of geography, of natural resources, films of a scientific, cultural and educational nature, as well as technical films.
+[225.21s] (en – English) SPEAKER_01: Generally speaking, we would like to receive any films that would increase the knowledge of Soviet citizens
+[235.96s] (en – English) SPEAKER_01: in the life of the United States and its people.
+[244.55s] (en – English) SPEAKER_02: I'm sure this interest in the United States is reciprocal in my
+[249.07s] (en – English) SPEAKER_02: I think I could safely say that there is also in the United States a great interest in how people live and work in your country, Mr. Andreev. What kinds of television programs could you offer to the United States television in return in an exchange of this kind?
+[266.84s] (ru – Russian) SPEAKER_01: Господин Андреев, могу вас заверить, что интерес является взаимным. В Соединенных Штатах проявляется огромный интерес к всему, касающемуся Советского Союза. Наши граждане очень заинтересованы тоже вашей жизнью, ваших обычаях, вашей традицией и так далее. Поэтому мы тоже были бы очень заинтересованы обмениваться с вами фильмами и всяким материалом для кино и для телевизии. Можете ли вы сказать мне, какой материал вы могли бы нам присылать из Советского Союза?
+[308.74s] (ru – Russian) SPEAKER_04: Я очень рад...
+[312.32s] (ru – Russian) SPEAKER_04: По тому обстоятельству,
+[314.72s] (ru – Russian) SPEAKER_04: что
+[315.80s] (ru – Russian) SPEAKER_04: У нас единая точка.
+[318.92s] (ru – Russian) SPEAKER_04: зрения.
+[320.61s] (ru – Russian) SPEAKER_04: По поводу обмена...
+[322.26s] (ru – Russian) SPEAKER_04: телевизионными программами.
+[324.62s] (zh – Chinese) SPEAKER_04: 一
+[325.58s] (ru – Russian) SPEAKER_04: кинофильмами.
+[328.27s] (ru – Russian) SPEAKER_04: Мы с своей стороны.
+[329.97s] (ru – Russian) SPEAKER_04: могли бы предложить американским коллегам
+[334.34s] (ru – Russian) SPEAKER_04: телевизионные программы,
+[337.46s] (ru – Russian) SPEAKER_04: музыкального характера.
+[342.21s] (ru – Russian) SPEAKER_04: Кинофильмы.
+[345.55s] (ru – Russian) SPEAKER_04: рассказывающие
+[347.82s] (ru – Russian) SPEAKER_04: Обыден.
+[349.75s] (ru – Russian) SPEAKER_04: О жизни.
+[351.64s] (ru – Russian) SPEAKER_04: о труде советских людей.
+[355.55s] (ru – Russian) SPEAKER_04: Кинофильмы, показывающие...
+[361.70s] (ru – Russian) SPEAKER_04: отдых советских людей.
+[365.59s] (ru – Russian) SPEAKER_04: их большое желание, их большое стремление
+[370.89s] (ru – Russian) SPEAKER_04: к установлению
+[372.83s] (ru – Russian) SPEAKER_04: дружбы между народами,
+[375.67s] (ru – Russian) SPEAKER_04: к установлению дружбы, тесной, долговечной дружбы между американским и советским народом.
+[384.17s] (ru – Russian) SPEAKER_04: Мы могли бы предложить...
+[387.30s] (ru – Russian) SPEAKER_04: нашим американским коллегам,
+[389.40s] (ru – Russian) SPEAKER_04: кинофильмы
+[390.67s] (ru – Russian) SPEAKER_04: научно-образовательные
+[393.22s] (ru – Russian) SPEAKER_04: просветительные,
+[395.77s] (ru – Russian) SPEAKER_04: Кинофильмы...
+[397.56s] (ru – Russian) SPEAKER_04: В ядовые...
+[399.39s] (ru – Russian) SPEAKER_04: рассказывающие об отдельных областях
+[402.85s] (ru – Russian) SPEAKER_04: советского
+[403.97s] (pl – Polish) SPEAKER_04: ...Sajudze.
+[406.70s] (ru – Russian) SPEAKER_04: могли бы поделиться с вами кинофильмами мультипликационными.
+[411.88s] (ru – Russian) SPEAKER_04: которые у нас в Советском Союзе.
+[414.38s] (ru – Russian) SPEAKER_04: с большим интересом смотрятся детворой,
+[417.10s] (ru – Russian) SPEAKER_04: И мы думаем...
+[418.92s] (ru – Russian) SPEAKER_04: что эти фильмы с таким же интересом были бы просмотрены и американскими детьми.
+[427.14s] (ru – Russian) SPEAKER_04: В заключении мне хочется сказать, что
+[430.06s] (ru – Russian) SPEAKER_04: Мы стоим за самый широкий.
+[434.01s] (ru – Russian) SPEAKER_04: и всесторонние.
+[435.96s] (ru – Russian) SPEAKER_04: Обмен.
+[437.43s] (ru – Russian) SPEAKER_04: телевизионными программами,
+[439.64s] (ru – Russian) SPEAKER_04: и их кинофильмами.
+[441.55s] (ru – Russian) SPEAKER_04: между Советским Союзом и Соединенными Штатами Америки.
+[450.63s] (en – English) SPEAKER_01: I'm still the interpreter who's talking and I would like to give you some indication as to how the interview proceeds You may have noticed that Mr. Mitchell is a
+[460.09s] (en – English) SPEAKER_01: putting his questions in English, and I'm the one who is translating his questions into Russian, then, Mr. Andreev.
+[467.22s] (en – English) SPEAKER_01: answers in Russian and for
+[469.73s] (en – English) SPEAKER_01: At the benefit of Mr. Mitchell, I'm translating them into English.
+[473.19s] (en – English) SPEAKER_01: Now that is the answer Mr. Andreev gave to the second question posed by Mr. Mitchell.
+[479.99s] (en – English) SPEAKER_01: I'm very glad indeed of this opportunity to exchange our views and even more glad
+[485.91s] (en – English) SPEAKER_01: that our opinions seem to be exactly alike as far as the exchange of television programmes and film material is concerned. On our side, we could propose to the United States for exchange purposes television programmes as well as film material. We could offer you musical films dealing with very important...
+[516.36s] (en – English) SPEAKER_01: composers, also films describing the habits, the way of living,
+[523.49s] (en – English) SPEAKER_01: the work of the Soviet people.
+[526.87s] (en – English) SPEAKER_01: You may also be interested to see a few films
+[531.02s] (en – English) SPEAKER_01: as to the way in which our citizens
+[534.80s] (en – English) SPEAKER_01: spend their free time and enjoy their holidays
+[539.25s] (en – English) SPEAKER_01: I think that these films will contribute to achieve the common purpose, namely reinforce our bonds and thus
+[551.74s] (en – English) SPEAKER_01: work towards a closer and everlasting friendship between all peoples of the world and I hope with the United States nation.
+[564.08s] (en – English) SPEAKER_01: I would like to add that we have also at your disposal films of a scientific and educational nature, scenic films describing the various areas and regions of our country.
+[580.68s] (en – English) SPEAKER_01: If you're interested, we can also offer you cartoons because they are most popular with Soviet kids and maybe the children of the United States may find them interesting as well.
+[595.43s] (en – English) SPEAKER_01: Now, in conclusion, I would like to say that we certainly
+[600.39s] (en – English) SPEAKER_01: stand for the widest possible exchange of television programs and film material between the Soviet Union and the United States, exchange of film material and television programs covering as many aspects as possible of the life of our people.
+[626.84s] (en – English) SPEAKER_02: Well,
+[627.98s] (en – English) SPEAKER_02: That's an interesting report, and I shall be very happy to take it back with me.
+[631.97s] (en – English) SPEAKER_02: Certainly it must be obvious to anyone who is listening to the complicated maneuver we have to go through here to talk to each other that in films and television we have at least found a little easier method for communication on the international level. All of us, I think, also must be grateful to UNESCO for making it possible to sit around the table here to talk about affairs of this kind.
+[653.06s] (en – English) SPEAKER_02: Mr. Andreev, here is a question I would like to ask you. One of the great services of television is in providing news of the world.
+[660.23s] (en – English) SPEAKER_02: Do you think it would be possible for United States television stations and networks to have their news cameramen in Russia to cover news events? And do you have any interest on your part in sending your own television news reporters to the United States for the same purpose?
+[687.45s] (ru – Russian) SPEAKER_01: Говорит здесь переводчица, хочу вам сказать несколько слов.
+[692.29s] (ru – Russian) SPEAKER_01: об этом обмене мнения, как вы могли
+[696.18s] (ru – Russian) SPEAKER_01: установить господин митчелл ставит вопросы на английском языке и я должна их переводить господин андреева на русский язык потом господин андреев отвечает на русском языке и я перевожу его ответы на английский и
+[710.97s] (ru – Russian) SPEAKER_01: На замечание, только что сделанное господином Андреевым, господин Митчелл отвечает следующее. Я был очень заинтересован всем тем, что вы мне только что сказали, и буду очень рад распространять эти сведения в Соединенных Штатах по возврату в мою страну.
+[729.03s] (ru – Russian) SPEAKER_01: Я себе отдаю отчет, что здесь нам нужно...
+[732.20s] (ru – Russian) SPEAKER_01: пройти через очень сложную процедуру, чтобы
+[737.03s] (ru – Russian) SPEAKER_01: понять друг друга способом переводов и так далее, но должен сказать, что мы благодарны, я думаю, что господин Андрей будет со мной согласен, УНЕСКО за то, что она устроила эту конференцию и дала нам таким образом возможность объединиться и обменяться мнениями.
+[757.53s] (ru – Russian) SPEAKER_01: У меня еще есть конкретный вопрос к господину Андрееву.
+[761.82s] (ru – Russian) SPEAKER_01: Так как одна из главнейших задач телевидения состоит в передаче новостей мира,
+[769.45s] (ru – Russian) SPEAKER_01: Считает ли он возможным позволить американским станциям и американским телецентрам
+[777.39s] (ru – Russian) SPEAKER_01: посылать своих операторов в Советский Союз для снимки новостей.
+[783.86s] (ru – Russian) SPEAKER_01: новейших событиях и интересует ли вас, то есть Советский Союз, посылать своих репортеров по новостям с той же целью в Соединенные Штаты Америки.
+[800.43s] (ru – Russian) SPEAKER_04: Я думаю, что те трудности...
+[803.67s] (ru – Russian) SPEAKER_04: о которых только что говорил господин Митчелл,
+[807.87s] (ru – Russian) SPEAKER_04: вполне преодолимы.
+[812.22s] (ru – Russian) SPEAKER_04: так как и у нас, и у вас, насколько мы могли убедиться здесь, в Танжере,
+[820.93s] (ru – Russian) SPEAKER_04: Единое желание, единое стремление.
+[825.79s] (ru – Russian) SPEAKER_04: установить
+[829.08s] (ru – Russian) SPEAKER_04: честные,
+[830.60s] (ru – Russian) SPEAKER_04: взаимоотношения
+[833.20s] (ru – Russian) SPEAKER_04: между
+[834.43s] (ru – Russian) SPEAKER_04: телевизионными организациями Соединенных Штатов Америки и Советского Союза.
+[841.30s] (ru – Russian) SPEAKER_04: Мы считаем.
+[842.79s] (ru – Russian) SPEAKER_04: что посылка...
+[845.10s] (ru – Russian) SPEAKER_04: кинооператоров.
+[846.55s] (ru – Russian) SPEAKER_04: Соединенных Штатов Америки в Советский Союз.
+[850.33s] (ru – Russian) SPEAKER_04: и советских кинооператоров Соединённых Штатов Америки,
+[856.00s] (ru – Russian) SPEAKER_04: также будет способствовать расширению культурного обмена
+[861.60s] (ru – Russian) SPEAKER_04: большему взаимопониманию нашему.
+[866.17s] (ru – Russian) SPEAKER_04: более глубокому ознакомлению
+[870.53s] (ru – Russian) SPEAKER_04: советскими зрителями жизнью американского народа,
+[874.90s] (ru – Russian) SPEAKER_04: и американскими телезрителями жизнью.
+[879.64s] (ru – Russian) SPEAKER_04: советского народа.
+[882.85s] (ru – Russian) SPEAKER_04: В заключении, мне хотелось бы
+[886.69s] (ru – Russian) SPEAKER_04: выразить
+[888.85s] (ru – Russian) SPEAKER_04: Надежда.
+[891.17s] (ru – Russian) SPEAKER_04: что
+[892.28s] (ru – Russian) SPEAKER_04: начатые в Танжере переговоры.
+[895.89s] (ru – Russian) SPEAKER_04: об обмене кинофильмами и телевизионными программами
+[901.43s] (ru – Russian) SPEAKER_04: явится хорошим началом
+[904.06s] (ru – Russian) SPEAKER_04: Для установления...
+[906.00s] (ru – Russian) SPEAKER_04: более тесных
+[908.41s] (ru – Russian) SPEAKER_04: наших отношений
+[911.79s] (ru – Russian) SPEAKER_04: более тесных
+[913.91s] (ru – Russian) SPEAKER_04: связей между телевизионными организациями Америки и Советского Союза. И что все это будет служить...
+[922.81s] (ru – Russian) SPEAKER_04: благородной целью.
+[924.61s] (ru – Russian) SPEAKER_04: укреплению
+[926.20s] (ru – Russian) SPEAKER_04: мира и дружбы между американским и советским народами.
+[935.48s] (en – English) SPEAKER_01: All right.
+[938.13s] (en – English) SPEAKER_01: Continuing the translation of the conversation
+[942.11s] (en – English) SPEAKER_01: Mr. Andreev's answer.
+[944.46s] (en – English) SPEAKER_01: Well, I think that the difficulties just referred to by Mr. Mitchell can be overcome.
+[951.76s] (en – English) SPEAKER_01: And actually, I think
+[953.59s] (cy – Welsh) SPEAKER_01: y gallwn ni'n sicr gweld
+[956.34s] (en – English) SPEAKER_01: on the basis of what we have seen here in Tangier, that we all have the same wish and that we are all intend to make the same efforts towards the establishment of closer relationship and closer bonds between the TV organizations of the United States and the television centers of the Soviet Union.
+[984.45s] (en – English) SPEAKER_01: As far as the question of sending your people to the Soviet Union in order to shoot newsreels, I think that this can be done, and we certainly would be interested to send our people, our teams, to the United States. I think that such a development will contribute to extend the cultural exchanges between the two countries, that it will contribute to mutual understanding, and will make Soviet citizens more familiar with life in the United States, in the same way as the United States people will come to know better what the life in the Soviet Union actually is.
+[1039.62s] (en – English) SPEAKER_01: I would like to conclude in expressing my sincere hope
+[1043.45s] (en – English) SPEAKER_01: that the discussions initiated here in Tangier on the subject of exchange of films and television programmes will prove to be a good and sound basis for our future relationship, will strengthen
+[1063.78s] (en – English) SPEAKER_01: contribute to a better understanding. I hope that thus the relations between the TV stations in the United States and in the Soviet Union will be strengthened and will develop satisfactorily.
+[1081.92s] (en – English) SPEAKER_01: As a matter of fact, I'm most convinced that all these efforts will serve to enable us to meet our noblest objectives, namely the strengthening of the friendship between the United States and the Soviet peoples.
+[1103.03s] (en – English) SPEAKER_01: you
+[1103.05s] (ru – Russian) SPEAKER_02: Топ.
+[1106.76s] (en – English) SPEAKER_02: Well, thank you, Mr. Andreev. Those are interesting words, and I have a feeling that...
+[1112.87s] (en – English) SPEAKER_02: with respect to the desire for friendship and for
+[1116.90s] (en – English) SPEAKER_02: peace between our two countries, we have no quarrel whatsoever.
+[1121.76s] (en – English) SPEAKER_02: I wonder now whether you have any questions that you would like to ask me. You've been very kind in answering the questions I've put to you. Is there something that you would like to have me discuss for you? Some things you'd like to have me tell you about the way we operate our television enterprise in the United States?
+[1142.13s] (ru – Russian) SPEAKER_01: Господин Андреев, я вас сердечно благодарю за все эти интересные вещи, которые вы мне только что рассказали. И я убежден, что ваше желание о мире и о дружбе взаимно с двух сторон.
+[1157.79s] (ru – Russian) SPEAKER_01: Я вас очень благодарю, что вы мне так точно ответили на все три вопроса, которые я вам поставила.
+[1163.21s] (ru – Russian) SPEAKER_01: Это было очень любезно с вашей стороны. И теперь я хотела бы вас спросить, не имеете ли вы ко мне некоторые вопросы, на которые я с удовольствием отвечу.
+[1175.14s] (ru – Russian) SPEAKER_04: Мы будем очень признательны.
+[1177.89s] (ru – Russian) SPEAKER_04: господину Митчеллу,
+[1180.89s] (ru – Russian) SPEAKER_04: если он ответит на два наших вопроса.
+[1185.18s] (ru – Russian) SPEAKER_04: Вопрос первый.
+[1187.59s] (ru – Russian) SPEAKER_04: каким советским кинофильмам
+[1191.90s] (ru – Russian) SPEAKER_04: американские зрители проявляют наибольший
+[1197.35s] (ru – Russian) SPEAKER_04: Интерес.
+[1200.84s] (ru – Russian) SPEAKER_04: И считаете ли вы ее?
+[1202.27s] (ru – Russian) SPEAKER_04: возможным.
+[1205.02s] (ru – Russian) SPEAKER_04: наиболее широкий показ
+[1208.37s] (ru – Russian) SPEAKER_04: в вашей стране.
+[1209.92s] (ru – Russian) SPEAKER_04: советских хроникально-документальных и научно-познавательных фильмов.
+[1220.21s] (en – English) SPEAKER_01: I thank you most heartily, Mr. Mitchell, for having so kindly listened to the questions and replied.
+[1228.28s] (en – English) SPEAKER_01: to what I've asked you. I would like now to put the questions to you.
+[1233.90s] (en – English) SPEAKER_01: namely, what are films
+[1237.37s] (en – English) SPEAKER_01: made in the Soviet Union, which proved to be the most interesting for people in the United States.
+[1245.17s] (en – English) SPEAKER_01: And I would also like you to tell me
+[1247.50s] (en – English) SPEAKER_01: whether there is any possibility
+[1249.68s] (en – English) SPEAKER_01: of enlarging the scope of telecasts
+[1253.81s] (en – English) SPEAKER_01: of newsreels or scientific and cultural films made in the Soviet Union.
+[1260.10s] (en – English) SPEAKER_01: in the TV stations and networks of the United States.
+[1269.44s] (en – English) SPEAKER_01: Mr. Mitchell, I would be very thankful indeed if you could answer two questions I'm going to put to you.
+[1276.64s] (en – English) SPEAKER_01: First of all, I would like to know
+[1278.84s] (en – English) SPEAKER_01: What are film material?
+[1281.21s] (en – English) SPEAKER_01: and telecasting material which would be most interesting for United States audiences coming from Soviet Russia.
+[1290.23s] (en – English) SPEAKER_01: And I would also like to know whether there is any possibility in the United States
+[1296.44s] (en – English) SPEAKER_01: to enlarge the scope
+[1298.98s] (en – English) SPEAKER_01: of telecastings for Soviet Union newsreels and scientific and cultural films.
+[1308.97s] (en – English) SPEAKER_02: Well, I think you've almost answered that question yourself earlier in this interview.
+[1313.43s] (en – English) SPEAKER_02: The people of the United States are interested in how the people of Soviet Russia live. I think our housewives would like to know how your housewives live, what problems they have in their daily life, how do they go shopping in the store. Our working men would like to know how the laboring man in Soviet Russia spends his day, how he amuses himself in his recreational time. And I can tell you as a producer of educational films that the school children of my country would like very much to know how it is in school in Russia.
+[1342.47s] (en – English) SPEAKER_02: What we would like to know is what your people look like, how they spend their time.
+[1346.81s] (en – English) SPEAKER_02: how they have fun. We also would hope that you would send us the best of your culture, and you have a great culture in Russia. We would like to see some of your great theater and your great music, your ballet. But most of all, show us your people
+[1359.23s] (en – English) SPEAKER_02: Your children, the way you live.
+[1365.05s] (en – English) SPEAKER_02: With respect to the use of material from your country on our newsreels, I think the same principles would apply in the United States as would apply in Russia.
+[1373.74s] (en – English) SPEAKER_02: Every editor likes on his news program on a television station that which is up to the minute, that which is really news. When news happens in Russia and the news of Russia affects the people of my country, of course we would want your material on our television networks and our stations. And I think only the difficulty of obtaining it in the past has kept us from using it.
+[1393.25s] (en – English) SPEAKER_02: We see also, in response to another part of your question, a steady increase in the attention that is paid in our country on television to education, science, documentary types of films,
+[1406.12s] (en – English) SPEAKER_02: in the broadcasts created by our networks and by our stations.
+[1409.85s] (en – English) SPEAKER_02: This is an encouraging thing to see developing in any great communication system. We hope it continues and I would suspect that if you are producing the kind of materials we hear you are, good films about interesting scientific and cultural and documentary area subjects, that there would not only be great interest for them in the United States, but that it would not be difficult for you to find a place for them in our television system.
+[1437.78s] (ru – Russian) SPEAKER_01: Господин Андреев, я думаю, что я могу вам ответить на этот вопрос теми же словами, которыми вы мне ответили на вопрос, заданный мной раньше.
+[1447.86s] (ru – Russian) SPEAKER_01: Одним словом, американский народ интересуется всем тем, что происходит в Советском Союзе. Например, наши женщины очень заинтересованы увидеть на кино, в фильме или на телевизии, как живут ваши женщины, как они ходят за покупками, какая их деятельность в ежедневной жизни. Наших рабочих интересует жизнь рабочих в Советском Союзе, как они работают, как они развлекаются и так далее. Наших детей интересует школьная жизнь и вообще жизнь ребят в Советском Союзе, тоже как они веселятся и как они учатся.
+[1492.02s] (ru – Russian) SPEAKER_01: Одним словом, нам хочется знать, как люди у вас живут. У нас тоже большой интерес к вашей культуре. Мы знаем, что у вас культура замечательная и древняя. Мы бы хотели получать от вас фильмы по музыке, по балету. И главным образом фильмы, которые могут интересовать детей и которые покажут детям, как живут в вашей стране.
+[1519.41s] (ru – Russian) SPEAKER_01: что касается фильм по новостям
+[1524.27s] (ru – Russian) SPEAKER_01: то мы руководимся в Соединенных Штатах теми же принципами, которыми вы руководитесь в Советском Союзе. Иными словами, мы хотим узнать о самых важных и интересных новых событиях. И когда такие события происходят в Советском Союзе, совершенно ясно, что мы хотим их показать нашей стране. К сожалению, в прошлом были затруднения, которые помешали нам применять на наших телевизионных экранах такие сведения, но я думаю, что теперь эти затруднения будут устранены и что мы сможем расширить программы такого рода. Я должна сказать, что внимание и интерес к фильмам научным...
+[1579.19s] (en – English) SPEAKER_01: But...
+[1581.05s] (en – English) SPEAKER_01: you
+[1581.15s] (ru – Russian) SPEAKER_03: Спасибо.
+[1582.03s] (en – English) SPEAKER_01: you
+[1582.06s] (en – English) SPEAKER_03: you
+[1582.11s] (ru – Russian) SPEAKER_01: познавательным для телевизии, так же, как и для радио, растет. И я считаю, что это очень важно для развития взаимопоминания между нашими странами. Мы знаем, мы слыхали это уже раньше, что вы производите очень хороший материал, документали, научные и культурные фильмы. и я думаю, что нам будет совершенно нетрудно найти им должное место в наших программах телевидения.
+[1582.33s] (en – English) SPEAKER_03: But...
+[1582.47s] (pl – Polish) SPEAKER_00: Znawarka.
+[1582.74s] (en – English) SPEAKER_00: you
+[1618.98s] (ru – Russian) SPEAKER_04: И второй вопрос.
+[1621.43s] (ru – Russian) SPEAKER_04: По образованию я педагог.
+[1625.31s] (ru – Russian) SPEAKER_04: И долгое время...
+[1628.40s] (ru – Russian) SPEAKER_04: работал в детской печати.
+[1630.97s] (ru – Russian) SPEAKER_04: и занимался
+[1633.13s] (ru – Russian) SPEAKER_04: радиовещанием
+[1634.85s] (ru – Russian) SPEAKER_04: и телевидением.
+[1637.19s] (ru – Russian) SPEAKER_04: для учащейся молодежи.
+[1640.35s] (ru – Russian) SPEAKER_04: Поэтому мне очень хотелось бы...
+[1642.63s] (ru – Russian) SPEAKER_04: спросить господина Митчелла.
+[1647.86s] (ru – Russian) SPEAKER_04: как в Соединенных Штатах Америки строится
+[1654.19s] (ru – Russian) SPEAKER_04: Программы.
+[1655.87s] (ru – Russian) SPEAKER_04: телевизионного вещания.
+[1657.71s] (ru – Russian) SPEAKER_04: для детей и юношества.
+[1665.04s] (en – English) SPEAKER_01: Mr Mitchell, I have another question for you. I'm myself an educator and for a long time past, I have worked on children's newspapers and I've also worked on television and broadcasting intended for children of various ages, in other words, classroom television. I would like you to tell me how you are establishing in the United States television programmes for children and for youth, for students let's say.
+[1697.25s] (en – English) SPEAKER_03: you
+[1701.22s] (en – English) SPEAKER_03: Tango and the Doggie in the Window.
+[1709.91s] (en – English) SPEAKER_03: This is Radio Tangier.
+[1711.75s] (en – English) SPEAKER_03: You have been listening to Three Vocals by Patti Page.
+[1714.87s] (en – English) SPEAKER_03: And now the Gaylords do the next three numbers, Mickey, Mickey,
+[1718.80s] (en – English) SPEAKER_03: Chee-chee-oo-chee, sang the little bird.
+[1720.99s] (en – English) SPEAKER_03: and Plantation Boogie.
+[1727.66s] (en – English) SPEAKER_03: This is Radio Tangier. You've been listening to three vocals by Patty Page and three by the Gaylords.
+[1733.99s] (en – English) SPEAKER_03: Now here's Liberace at the piano forte with
+[1736.82s] (en – English) SPEAKER_03: Paul Weston's orchestra.
+[1738.53s] (en – English) SPEAKER_03: you'll hear Cornish Rhapsody.
+[1740.70s] (en – English) SPEAKER_03: and Lauren.
+[1747.02s] (en – English) SPEAKER_03: This is Radio Tangier. You are listening to Liberace at the Piano Forte.
+[1751.35s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1754.63s] (en – English) SPEAKER_03: The last number is Spellbound Concerto.
+[1763.62s] (en – English) SPEAKER_03: This is Radio Tangier. You have been listening to a program featuring Liberace.
+[1768.48s] (en – English) SPEAKER_03: with Paul Weston's orchestra.
+[1775.23s] (en – English) SPEAKER_06: and
+[1775.75s] (en – English) SPEAKER_06: you
+[1775.91s] (ar – Arabic) SPEAKER_06: لونة سادة الدول
+[1777.78s] (ar – Arabic) SPEAKER_06: فلم ينبته أن ملك الأرض بالعدل والرحمة دستورهم القرآن ودينهم الإسلام
+[1783.47s] (es – Spanish) SPEAKER_01: Han echado seres en el programa cada mañana una por la mañana.
+[1784.66s] (ar – Arabic) SPEAKER_06: ويجعلون بذلك أول أمة في العالم
+[1786.49s] (it – Italian) SPEAKER_01: ...
+[1787.36s] (ar – Arabic) SPEAKER_06: تقوم في فهمها على الفرية والأقوى والمساواة بين الناس
+[1789.03s] (en – English) SPEAKER_05: you
+[1792.97s] (en – English) SPEAKER_06: you
+[1793.35s] (ar – Arabic) SPEAKER_06: ترجمة نانسي قنقر
+[1795.51s] (ar – Arabic) SPEAKER_05: وصابون بالموليد متخدون من زيت الزيتون
+[1798.97s] (ar – Arabic) SPEAKER_06: وأنت أيها المستمع الكريم تستطيع أن تكسب جلدك لون جميلا ولطيفا منظورا
+[1804.46s] (ar – Arabic) SPEAKER_06: في ظرفي 15 يوم إذا اتصلت بصغم فلمني
+[1808.42s] (ar – Arabic) SPEAKER_06: لأن رغبتهم مطهرة
+[1809.47s] (ar – Arabic) SPEAKER_05: ورائحته زميلة تيقن من أن صابون الموليب هو سلة مفيدة من وسائل التجميد
+[1810.21s] (ar – Arabic) SPEAKER_06: وراء حتى هو زرير
+[1817.59s] (it – Italian) SPEAKER_05: E stammi...
+[1818.48s] (it – Italian) SPEAKER_05: Palmo Livre
+[1819.48s] (ar – Arabic) SPEAKER_05: ودي الحمام يستعمل بالموليب
+[1821.64s] (ar – Arabic) SPEAKER_05: من الحجم الكبير
+[1841.09s] (es – Spanish) SPEAKER_06: Para morir, día 17.

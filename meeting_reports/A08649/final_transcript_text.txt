@@ -1,0 +1,1134 @@
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.
+[1.68s] (fr – French) SPEAKER_03: Allô?
+[2.41s] (en – English) SPEAKER_03: Hello?
+[3.44s] (ru – Russian) SPEAKER_03: Записываем выступление.
+[5.89s] (ru – Russian) SPEAKER_03: записывать выступление.
+[7.52s] (ru – Russian) SPEAKER_03: товарища Брянцева Алексея Вячеславовича, заведующего реставрационной мастерской станковой живописи государства Эрмитажа. Прошу вас.
+[16.28s] (ru – Russian) SPEAKER_02: Эрмитаж –
+[17.60s] (ru – Russian) SPEAKER_02: крупнейший и наиболее известный музей Советского Союза.
+[20.79s] (ru – Russian) SPEAKER_02: Ежегодно его посещают свыше двух миллионов зрителей, а в этом году, возможно, будет около четырех миллионов.
+[28.35s] (ru – Russian) SPEAKER_02: Выдающаяся роль музея как одного из значительнейших в мире
+[32.46s] (ru – Russian) SPEAKER_02: и обладание разнообразнейшими материалами коллекций, отражающих культуру искусства 28 стран мира,
+[38.67s] (ru – Russian) SPEAKER_02: вызывает необходимость в тщательном сохранении всех экспонатов.
+[42.66s] (ru – Russian) SPEAKER_02: Время безжалостно к самым, на первый взгляд, прочным материалам.
+[46.45s] (ru – Russian) SPEAKER_02: Причин ускоряющих процессы, естественно, старения материалов более чем достаточно.
+[51.87s] (ru – Russian) SPEAKER_02: а тем более в Ленинграде, где не только близость обширной акватории Невы,
+[56.44s] (ru – Russian) SPEAKER_02: Но известный своими капризами климат усугубляют трудности хранительской работы.
+[62.55s] (ru – Russian) SPEAKER_02: Наиболее активный фактор, ускоряющий процессы старения,
+[66.38s] (ru – Russian) SPEAKER_02: разрушение материалов,
+[67.97s] (ru – Russian) SPEAKER_02: это резкие изменения влажности.
+[71.50s] (ru – Russian) SPEAKER_02: Предотвратить их.
+[72.93s] (ru – Russian) SPEAKER_02: в громадном комплексе старинных зданий практически невозможно.
+[77.52s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием экспонированных и сохраняющихся фондов.
+[87.68s] (ru – Russian) SPEAKER_02: Предотвратить их в громадном комплексе старинных зданий практически невозможно.
+[92.71s] (ru – Russian) SPEAKER_02: Десятки хранителей ведут поэтому регулярные наблюдения за состоянием
+[96.69s] (ru – Russian) SPEAKER_02: экспонированных и сохраняющихся в фондах вещей.
+[100.35s] (ru – Russian) SPEAKER_02: Более 60 реставраторов помогают хранителям в определении особенностей состояния произведений. Так реставраторы живописи просматривают с хранителями ежегодно все картины.
+[109.70s] (ru – Russian) SPEAKER_02: определяя очередность и особенность необходимой для многих из них реставрации.
+[116.23s] (ru – Russian) SPEAKER_02: Реставрационная служба в музее
+[118.48s] (ru – Russian) SPEAKER_02: Выполняю единую для всех...
+[121.21s] (ru – Russian) SPEAKER_02: Задачу.
+[122.51s] (ru – Russian) SPEAKER_02: контролей и консервации хранимых ценностей, имеет широкий диапазон возможностей, так располагают специалистами в областях всех хранимых в музее материалов.
+[131.49s] (ru – Russian) SPEAKER_02: соответственно этому в музее имеют мастерские реставрации стенных росписей и
+[136.06s] (ru – Russian) SPEAKER_02: станковой живописи, графики.
+[138.57s] (ru – Russian) SPEAKER_02: тканей,
+[139.44s] (ru – Russian) SPEAKER_02: археологического дерева, кожи, кости.
+[142.41s] (ru – Russian) SPEAKER_02: керамики, стекла,
+[144.24s] (ru – Russian) SPEAKER_02: металлов
+[145.29s] (ru – Russian) SPEAKER_02: скульптуры и, наконец, изделий из цветного камня.
+[148.78s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных
+[153.71s] (pl – Polish) SPEAKER_02: specjalistów.
+[154.67s] (ru – Russian) SPEAKER_02: приданных в качестве необходимых вспомогательных сил
+[157.71s] (ru – Russian) SPEAKER_02: химико-физическая лаборатория и кабинет
+[160.51s] (ru – Russian) SPEAKER_02: Физика...
+[161.52s] (ru – Russian) SPEAKER_02: лучевых исследований.
+[164.83s] (ru – Russian) SPEAKER_02: К услугам
+[169.24s] (en – English) SPEAKER_02: Mm-hmm.
+[170.08s] (ru – Russian) SPEAKER_02: Естественно, что в помощь этим мастерским, а лучше сказать, группам высококвалифицированных мастеров,
+[176.36s] (ru – Russian) SPEAKER_02: приданы в качестве необходимых вспомогательных сил
+[179.83s] (ru – Russian) SPEAKER_02: Химико-физическая лаборатория.
+[182.45s] (ru – Russian) SPEAKER_02: и кабинет фотофизических исследований.
+[185.20s] (ru – Russian) SPEAKER_02: к услугам научных работников-реставраторов.
+[187.65s] (ru – Russian) SPEAKER_02: различные виды анализов.
+[189.71s] (ru – Russian) SPEAKER_02: Съёмки в ультрафиолетовых лучах различных диапазонов,
+[193.44s] (ru – Russian) SPEAKER_02: инфракрасных лучах,
+[195.12s] (ru – Russian) SPEAKER_02: и рентгенов фотографирования.
+[197.33s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследовательских.
+[201.08s] (en – English) SPEAKER_02: Um,
+[203.04s] (ru – Russian) SPEAKER_02: Все это расширяет и возможности исследований радиоатрибутивных целей.
+[208.25s] (ru – Russian) SPEAKER_02: но и значительно помогают реставраторам
+[211.47s] (ru – Russian) SPEAKER_02: на основе исследований точно и решительно проводить свои операции.
+[216.40s] (ru – Russian) SPEAKER_02: Наиболее...
+[217.48s] (ru – Russian) SPEAKER_02: В специфичных и сложных случаях музей всегда встречает активную помощь у специалистов в различных научно-исследовательских институтах.
+[226.26s] (ru – Russian) SPEAKER_02: с которыми держится постоянная связь.
+[229.01s] (ru – Russian) SPEAKER_02: Прочная связь, установленная со многими реставрационными
+[232.28s] (ru – Russian) SPEAKER_02: мастерскими,
+[233.51s] (ru – Russian) SPEAKER_02: и специалистами-реставраторами крупнейших музеев Европы.
+[239.67s] (ru – Russian) SPEAKER_02: Реставрационный? Хорошо.
+[242.37s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[253.97s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставрационными мастерскими и специалистами реставрации крупнейших музеев Европы.
+[263.42s] (ru – Russian) SPEAKER_02: Реставрационная деятельность – это всегда бесчисленные проблемы, требующие наиболее рационального разрешения.
+[270.01s] (ru – Russian) SPEAKER_02: Много таких проблем в области хранения.
+[272.38s] (ru – Russian) SPEAKER_02: и реставрации произведений
+[274.15s] (ru – Russian) SPEAKER_02: живописи, хотя именно в этой области Эрмитаж располагает опытом двухсотлетней практики.
+[280.26s] (ru – Russian) SPEAKER_02: Коллекции живописи произведений
+[282.54s] (ru – Russian) SPEAKER_02: Коллекции живописных произведений
+[285.39s] (ru – Russian) SPEAKER_02: насчитывающие более 10 тысяч картин,
+[288.21s] (ru – Russian) SPEAKER_02: требует в себе специфического внимания.
+[290.55s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Троченто до современных живописцев.
+[300.37s] (ru – Russian) SPEAKER_02: Ведь только итальянская живопись представлена здесь многими десятками картин от безымянных мастеров Тречента до современных живописцев.
+[309.28s] (ru – Russian) SPEAKER_02: и массивные доски с темпорной живописью предшественников Леонардо да Винчи,
+[313.65s] (en – English) SPEAKER_02: but,
+[317.58s] (ru – Russian) SPEAKER_02: и массивные доски с темперной живостью предшественников Леонардо Винчи, и картины Моранди и Гуттузе нуждаются во внимании и часто принятии неотложных реструкционных мер.
+[327.71s] (en – English) SPEAKER_00: you
+[328.94s] (ru – Russian) SPEAKER_02: прекрасно сохранившаяся Мадонна Конестабель Рафаэля,
+[332.33s] (ru – Russian) SPEAKER_02: и копия с ватиканских лоджий Рафаэля,
+[335.30s] (ru – Russian) SPEAKER_02: Все это объекты забот многих сотрудников, берегущих для будущего.
+[339.64s] (ru – Russian) SPEAKER_02: благородные труды великих и скромных мастеров.
+[343.42s] (ru – Russian) SPEAKER_02: Пожалуй, нигде в крупных музеях нашей страны
+[346.63s] (ru – Russian) SPEAKER_02: Не приходится так настороженно наблюдать за сохранностью музейных вещей.
+[352.47s] (ru – Russian) SPEAKER_02: Специфическую обострённость создаёт географическое положение Ленинграда между водами Балтики и Ладоги.
+[358.73s] (ru – Russian) SPEAKER_02: близость Арктики
+[360.51s] (ru – Russian) SPEAKER_02: и известная капризность климата.
+[362.81s] (ru – Russian) SPEAKER_02: Наводнение не легенда, а ежегодный риск.
+[365.91s] (ru – Russian) SPEAKER_02: Поэтому экспонирование и хранение вещей в фондах серьезно продумывается с точки зрения особенностей и капризов погод всех времен года.
+[374.96s] (ru – Russian) SPEAKER_02: когда
+[376.12s] (ru – Russian) SPEAKER_02: В ноябре прошлого года вторжение стихий
+[379.31s] (ru – Russian) SPEAKER_02: вызвало страшную катастрофу во Флоренции и Венеции,
+[382.71s] (ru – Russian) SPEAKER_02: Ленинградские музейные работники, как никто другой, понимали и сочувствовали своим итальянским коллегам.
+[389.71s] (ru – Russian) SPEAKER_03: Благодарю вас, Алексей Вячеславович.
+[397.12s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях
+[400.27s] (ru – Russian) SPEAKER_02: Музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[412.49s] (ru – Russian) SPEAKER_02: В наиболее специфичных и сложных случаях музей всегда встречает активную помощь у специалистов различных научно-исследовательских институтов, с которыми держится постоянная связь.
+[423.34s] (ru – Russian) SPEAKER_02: Прочные связи установлены и со многими ресурсами.
+[428.17s] (ru – Russian) SPEAKER_02: Прочные связи установлены со многими реставраторами в крупнейших музеях Европы.
+[436.99s] (ru – Russian) SPEAKER_03: У нас у микрофона.
+[438.70s] (ru – Russian) SPEAKER_03: Светлана Николаевна,
+[440.06s] (ru – Russian) SPEAKER_03: Всевышнее.
+[441.24s] (ru – Russian) SPEAKER_03: Заместитель заведующего...
+[443.25s] (ru – Russian) SPEAKER_03: отделом Западноевропейского искусствовосударственного эрмитажа.
+[446.76s] (ru – Russian) SPEAKER_03: Прошу вас.
+[449.16s] (ru – Russian) SPEAKER_00: Художественная общественность Советского Союза, так же как весь советский народ, были потрясены стихийным бедствием, обрушившимся в ноябре прошлого года на Флоренцию, Венецию и другие города Италии, в результате которого пострадали библиотеки и памятники искусств.
+[464.62s] (ru – Russian) SPEAKER_00: Государственные и общественные организации нашей страны немедленно оказали помощь пострадавшим от наводнения населения.
+[470.83s] (ru – Russian) SPEAKER_00: медикаментами, продуктами, предметами первой необходимости.
+[474.64s] (ru – Russian) SPEAKER_00: В эту компанию включился Эрмитаж.
+[477.10s] (ru – Russian) SPEAKER_00: передавший в фонд помощи Флоренции денежные средства, полученные от экскурсий по особой кладовой и от лекций.
+[483.65s] (ru – Russian) SPEAKER_00: В нашей стране с большим удовлетворением была принята весть об инициативе ЮНЕСКО в организации помощи пострадавшим от наводнения художественным центром Италии и в спасении поврежденных памятников искусства.
+[495.21s] (ru – Russian) SPEAKER_00: Мы рады, что в этом принимают участие и советские реставраторы, работающие в настоящее время во Флоренции.
+[501.30s] (ru – Russian) SPEAKER_00: Советские люди с большим интересом и любовью относятся к Италии, ее культуре и искусству.
+[506.80s] (ru – Russian) SPEAKER_00: Быстро расходятся книги итальянских писателей.
+[509.84s] (ru – Russian) SPEAKER_00: и работы советских авторов, посвященные Италии. Всегда можно видеть многочисленных посетителей в залах Эрмитажа, где выставлены всемирно известные произведения Леонардо да Винчи, Микеланджело, Рафаэля, Тициана.
+[522.26s] (ru – Russian) SPEAKER_00: Сотрудники музея заботливо хранят памятники искусства, изучают их и рассказывают о них читателям в своих книгах.
+[528.98s] (ru – Russian) SPEAKER_00: Только за последние годы было издано несколько книг и альбомов о хранящихся в Эрмитаже картинах итальянских мастеров. Достаточно назвать такие работы, как «Итальянская живопись XIII-XVIII веков в Эрмитаже»,
+[541.03s] (ru – Russian) SPEAKER_00: Многотомное издание, выпускаемое Ленинградским издательством «Советский художник» и Пражским издательством «Артия», где в двух томах большие разделы посвящены итальянской живописи.
+[551.98s] (ru – Russian) SPEAKER_00: Кстати, эти альбомы вышли не только на русском, но также на немецком, французском и английском языках.
+[557.77s] (ru – Russian) SPEAKER_00: Давно уже установились постоянные контакты между Эрмитажем и многими художественными учреждениями различных городов Италии, особенно Венеции и Флоренции.
+[566.22s] (ru – Russian) SPEAKER_00: Эрмитаж ведет обмен научной информацией, фотографиями, книгами, каталогами выставок с Национальной библиотекой, галереей Уфицы, издательством Сансони, библиотекой Бернсона во Флоренции.
+[577.90s] (ru – Russian) SPEAKER_00: Институтом истории искусств Фондационной Чини и Галереей Академии в Венеции.
+[582.96s] (ru – Russian) SPEAKER_00: Наш музей неоднократно предоставлял свои экспонаты на выставки в разные города Италии.
+[588.09s] (ru – Russian) SPEAKER_00: но более всего в Венецию.
+[589.95s] (ru – Russian) SPEAKER_00: В последние годы там побывали пейзажи Франческо Гварди, натюрморт Джорджо Моранди, рисунки венецианских мастеров. В настоящее время в Венеции находятся на выставке более 50 рисунков замечательного итальянского художника конца 18-го, начала 19-го века.
+[606.32s] (ru – Russian) SPEAKER_00: работавшего долгое время в России Пьетро Гонзаго. Мы уверены в том, что наши научные и культурные связи с Италией будут укрепляться и расширяться.
+[616.76s] (ru – Russian) SPEAKER_03: Благодарю вас, Светлана Николаевна.
+[637.25s] (hi – Hindi) SPEAKER_03: अलो।
+[638.58s] (fr – French) SPEAKER_03: A l'occasion du centenaire de la naissance de Marie-Escleraudovské-Curie, je vous prie, Monsieur le Secrétaire général de la Commission polonaise pour l'UNESCO,
+[647.88s] (fr – French) SPEAKER_03: de faire un petit exposé en ce qui concerne les manifestations que la Commission prévoit pour ce jubilé, s'il vous plaît.
+[660.40s] (pl – Polish) SPEAKER_01: Przełom XIX na XX wiek dał ludzkości wiele wybitnych nazwisk, o których historia nigdy nie zapomni.
+[667.72s] (pl – Polish) SPEAKER_01: A między nimi Maria Skłodowska-Curie należy nie tylko do największych, ale i do najciekawszych.
+[673.31s] (pl – Polish) SPEAKER_01: Przecież jej prace naukowe prowadzone wspólnie z Piotrem Curie nad promieniotwórczością stoją u podstaw,
+[680.72s] (pl – Polish) SPEAKER_01: rozwoju nowoczesnej nauki, która doprowadziła do wyzwolenia energii jądrowej.
+[685.80s] (pl – Polish) SPEAKER_01: Maria Skłodowska-Curie należała również do tych,
+[688.02s] (pl – Polish) SPEAKER_01: którzy pierwsi przewidzieli możliwości zagłady dla ludzkości,
+[691.18s] (pl – Polish) SPEAKER_01: przy użyciu nowych odkryć dla celów destrukcyjnych.
+[694.17s] (pl – Polish) SPEAKER_01: była najsłynniejszą kobietą początku naszego stulecia i dzięki niej
+[698.01s] (pl – Polish) SPEAKER_01: wiele skorzystała z prawa emancypacji kobiet na świecie. Jest do tej pory jedyną kobietą na świecie, która dwukrotnie otrzymała
+[704.49s] (pl – Polish) SPEAKER_01: Nagrodę Nobla.
+[706.23s] (pl – Polish) SPEAKER_01: była rzecznikiem Międzynarodowej Współpracy Naukowej,
+[708.58s] (pl – Polish) SPEAKER_01: i odegrała dużo roli w Międzynarodowej Komisji Współpracy Intelektualnej powołanej przez Ligę Narodów.
+[713.57s] (ru – Russian) SPEAKER_01: Врешьте.
+[714.32s] (pl – Polish) SPEAKER_01: W okresie, gdy Polska wymazana była z mapy Europy,
+[717.08s] (pl – Polish) SPEAKER_01: Reprezentowała kulturę polską na świecie i miłość do kraju czystego w niczym nie umniejszało przywiązanie do Francji,
+[722.58s] (pl – Polish) SPEAKER_01: gdzie dokonała swych odkryć i spędziła większą część życia.
+[726.82s] (pl – Polish) SPEAKER_01: Tak więc setna rocznica urodzin Marii Skłodowskiej-Curie to wielka rocznica międzynarodowa, o czym świadczy patronat jej przyznany przez UNESCO. To cenna data w stosunkach przyjaźni i współpracy polsko-francuskiej. To wydarzenie drogie każdemu polskiemu sercu.
+[741.89s] (pl – Polish) SPEAKER_01: Komitet Organizacyjny
+[743.86s] (pl – Polish) SPEAKER_01: tej rocznicy w Polsce opracował obszerny program imprez.
+[749.50s] (pl – Polish) SPEAKER_01: Najważniejszą z nich będzie Międzynarodowy Sympozjon Naukowy z udziałem kilkudziesięciu wybitnych uczonych
+[757.25s] (pl – Polish) SPEAKER_01: wielu krajów, w tym kilkula ratów Nobla.
+[760.32s] (pl – Polish) SPEAKER_01: W czasie sympozjonu, który odbędzie się w październiku tego roku w Warszawie,
+[764.43s] (pl – Polish) SPEAKER_01: Przedyskutowane będą zagadnienia związane z rozwojem badań w dziedzinie atomistyki i ich znaczenia dla postępu ludzkości.
+[772.79s] (pl – Polish) SPEAKER_01: W tym samym czasie pod egidą UNESCO odbędzie się międzynowe spotkanie popularyzatorów wiedzy.
+[780.57s] (pl – Polish) SPEAKER_01: Spotkanie zwołane w ramach imprez rocznicy Marii Curie,
+[785.34s] (pl – Polish) SPEAKER_01: dla spotkania tego postać Marii Curie będzie świetnym przyczynkiem w dyskusji o odpowiedzialności uczonego, roli popularyzacji nauki, ale spotkanie będzie przede wszystkim poświęcone omówieniu zawodowych problemów dziennikarzy,
+[799.62s] (pl – Polish) SPEAKER_01: pisarzy naukowych, populizatorów wiedzy.
+[803.57s] (pl – Polish) SPEAKER_01: Również w październiku otwarte zostanie w Warszawie Buzum,
+[807.03s] (pl – Polish) SPEAKER_01: imienia Marii Skłodowskiej-Curie w domu, przy którym się urodziła, na Starym Mieście przy ulicy Freta 16.
+[814.96s] (ro – Romanian) SPEAKER_01: Polsca Academia Nauk
+[816.51s] (cs – Czech) SPEAKER_01: přizná
+[818.32s] (pl – Polish) SPEAKER_01: uchwaliła ufundowanie nagrody imienia Marii Kielisk-Kłodowski przyznawane jednego roku za osiągnięcia w dziedzinie chemii, następnego w dziedzinie fizyki.
+[827.19s] (pl – Polish) SPEAKER_01: Będzie jeszcze wiele innych imprez. Wydane zostaną specjalne znaczki pocztowe, medal pamiątkowy. Przygotowane są filmy krótkometrażowe, zarówno dla kin, jak i dla telewizji.
+[844.61s] (pl – Polish) SPEAKER_01: Sądzę, że szczególnie młodzież szkolna, a przede wszystkim szkoły stowarzyszonych UNESCO zajmie się szczególnie to rocznicą.
+[854.11s] (en – English) SPEAKER_01: is
+[855.34s] (pl – Polish) SPEAKER_01: Postać Marii Curie to przede wszystkim przykład dla młodego pokolenia i o tym nie możemy zapomnieć organizując rocznice związane z jej 100.
+[867.41s] (it – Italian) SPEAKER_01: o quando gli sette i rossi si uroggiano.
+[872.33s] (en – English) SPEAKER_01: Please, have a seat.
+[877.06s] (fr – French) SPEAKER_01: La quatorzième session de la Conférence générale de l'UNESCO a adopté
+[882.48s] (fr – French) SPEAKER_01: à l'unanimité de la résolution présentée par la France et la Pologne au sujet du patronage de l'UNESCO de l'anniversaire de la naissance de Marie Sklodowska-Curie.
+[892.21s] (fr – French) SPEAKER_01: La résolution fait appel à tous les États membres et aux commissions nationales pour l'UNESCO afin qu'ils s'ajoignent à la célébration de cet anniversaire.
+[900.23s] (fr – French) SPEAKER_01: L'œuvre que Marie Skłodowska-Curie a accomplie avec son mari Pierre Curie a donné leur essor aux recherches sur l'utilisation de la régie nucléaire et son importance est énorme pour l'humanité.
+[913.00s] (fr – French) SPEAKER_01: La Commission nationale polonaise pour l'UNESCO travaille de concert avec la Commission française
+[917.07s] (fr – French) SPEAKER_01: pour préparer les manifestations nationales et internationales prévues.
+[923.68s] (fr – French) SPEAKER_01: Parmi les programmes des manifestations, on relèvera en premier lieu le Symposium scientifique international, qui s'est dès lors là en présence de nombreux savants éminents, dont plusieurs prix Nobel.
+[934.97s] (fr – French) SPEAKER_01: Ce symposium, qui aura lieu en octobre prochain à Varsovie, sera consacré au développement des recherches dans les domaines de l'atomistique ainsi que à leur signification pour l'avenir de l'humanité.
+[947.16s] (fr – French) SPEAKER_01: En octobre, aura lieu à Varsovie, sous les auspices de l'UNESCO, une raconte internationale d'un journaliste vulgarisateur de sciences, qui sera aussi consacré à l'œuvre de Mme Curie, ainsi qu'au problème actuel des vulgarisations de la science.
+[961.26s] (fr – French) SPEAKER_01: Plusieurs publications spéciales sont prévues.
+[964.34s] (fr – French) SPEAKER_01: Académie polonaise de sciences va éditer un recueil de travaux des plus remarquables physiciens polonais sur les problèmes liés avec les travaux de Maria Skłodowska-Curie, ainsi qu'un ouvrage consacré à la grande femme de sciences.
+[976.47s] (fr – French) SPEAKER_01: Un musée consacré à Maria Skodowska-Curie sera ouvert dans la maison natale de la Rue Freta à Varsovie. Un prix de son nom sera institué qui sera décerné tous les deux ans, une année pour des réalisations dans le domaine de la chimie et une année pour des réalisations dans le domaine de la physique.
+[996.03s] (fr – French) SPEAKER_01: Je voudrais aussi mentionner une médaille collaborative, une série de tendres, des affiches, etc. On projette également la réalisation d'un court-métrage consacré à la vie, à le rêve de Marie Skodowska-Kiri, qui sera donné...
+[1009.61s] (en – English) SPEAKER_01: Oh.
+[1010.84s] (fr – French) SPEAKER_01: en télévision du monde entier.
+[1015.53s] (fr – French) SPEAKER_03: Je vous remercie pour votre attention.
+[1017.34s] (fr – French) SPEAKER_03: Merci beaucoup.

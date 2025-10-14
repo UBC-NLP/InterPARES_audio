@@ -1,0 +1,516 @@
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.
+[2.07s] (en – English) SPEAKER_01: Mr. Director General
+[7.79s] (en – English) SPEAKER_01: Excellencies,
+[9.46s] (en – English) SPEAKER_01: Dear colleagues,
+[12.82s] (ar – Arabic) SPEAKER_01: دعني
+[14.75s] (en – English) SPEAKER_01: Introduce me here.
+[17.11s] (pt – Portuguese) SPEAKER_01: A broa.
+[19.37s] (ar – Arabic) SPEAKER_01: وليفت
+[20.80s] (en – English) SPEAKER_01: 2000.
+[22.63s] (en – English) SPEAKER_01: 400 years.
+[24.18s] (en – English) SPEAKER_01: before Christ.
+[26.36s] (en – English) SPEAKER_01: He belongs to the fifth dynasty.
+[30.76s] (en – English) SPEAKER_01: He is a loyal and everlasting
+[34.17s] (en – English) SPEAKER_01: Ambassador from Egypt.
+[36.16s] (en – English) SPEAKER_01: Deuces.
+[39.38s] (en – English) SPEAKER_01: May he ever
+[41.59s] (en – English) SPEAKER_01: BE
+[42.18s] (en – English) SPEAKER_01: bringing to you
+[44.48s] (en – English) SPEAKER_01: or
+[45.27s] (en – English) SPEAKER_01: gratitude
+[47.38s] (en – English) SPEAKER_01: our great appreciation
+[50.88s] (en – English) SPEAKER_01: And
+[52.93s] (en – English) SPEAKER_01: friendships, confidence.
+[54.87s] (en – English) SPEAKER_01: and goodwill.
+[56.70s] (en – English) SPEAKER_01: for the great achievement.
+[59.36s] (en – English) SPEAKER_01: you have done.
+[61.25s] (en – English) SPEAKER_01: very successfully.
+[63.18s] (en – English) SPEAKER_01: You.
+[64.02s] (en – English) SPEAKER_01: and your great organization.
+[67.08s] (en – English) SPEAKER_01: Mr. Director General.
+[69.20s] (en – English) SPEAKER_01: May I call upon you?
+[71.48s] (en – English) SPEAKER_01: to unveil the statue.
+[73.74s] (ko – Korean) SPEAKER_01: MBC 뉴스 김성현입니다.
+[92.67s] (en – English) SPEAKER_00: I
+[92.84s] (en – English) SPEAKER_01: you
+[92.89s] (en – English) SPEAKER_00: you
+[96.52s] (en – English) SPEAKER_01: The Press
+[97.97s] (en – English) SPEAKER_01: you
+[98.97s] (en – English) SPEAKER_01: you
+[100.15s] (fr – French) SPEAKER_00: Monsieur le ministre...
+[103.81s] (en – English) SPEAKER_00: at
+[104.28s] (fr – French) SPEAKER_00: En présence du président de la Conférence générale,
+[109.33s] (fr – French) SPEAKER_00: du président du Conseil exécutif,
+[112.87s] (fr – French) SPEAKER_00: du président du comité exécutif pour la campagne pour la sauvegarde
+[118.49s] (fr – French) SPEAKER_00: Les monuments de Nubie,
+[121.31s] (fr – French) SPEAKER_00: C'est avec beaucoup d'émotion.
+[126.12s] (fr – French) SPEAKER_00: que je reçois
+[129.36s] (fr – French) SPEAKER_00: Au nom de l'UNESCO,
+[132.36s] (fr – French) SPEAKER_00: Ce remarquable témoignage.
+[136.87s] (fr – French) SPEAKER_00: de la reconnaissance et de l'appréciation, pour reprendre vos propres termes,
+[143.49s] (fr – French) SPEAKER_00: de votre gouvernement et de votre pays
+[147.55s] (fr – French) SPEAKER_00: à l'égard de la solidarité internationale qui s'est manifestée.
+[153.63s] (fr – French) SPEAKER_00: à l'appel de l'UNESCO,
+[156.23s] (fr – French) SPEAKER_00: pour vous aider
+[158.22s] (fr – French) SPEAKER_00: à préserver des trésors dont vous êtes gardiens
+[162.49s] (fr – French) SPEAKER_00: Mesdames, nous nous sentons tous à vos côtés.
+[167.09s] (es – Spanish) SPEAKER_00: Le...
+[168.49s] (fr – French) SPEAKER_00: privilégiée bénéficiaire.
+[172.93s] (en – English) SPEAKER_00: Say...
+[175.63s] (fr – French) SPEAKER_00: nobles personnages,
+[178.86s] (fr – French) SPEAKER_00: qui nous vient du lointain des âges.
+[183.51s] (fr – French) SPEAKER_00: par-delà quarante-cinq siècles.
+[188.12s] (fr – French) SPEAKER_00: Dans un État, comme vous le voyez,
+[191.38s] (fr – French) SPEAKER_00: de sereine préservation parfaite
+[197.00s] (fr – French) SPEAKER_00: restera
+[198.80s] (fr – French) SPEAKER_00: je ne puis dire aussi longtemps
+[203.31s] (es – Spanish) SPEAKER_00: ¡Cállelas!
+[205.57s] (fr – French) SPEAKER_00: Nous avons perdu le secret.
+[209.55s] (fr – French) SPEAKER_00: des constructions éternelles,
+[213.20s] (fr – French) SPEAKER_00: et nos moyens de destruction
+[216.35s] (fr – French) SPEAKER_00: même dans la paix.
+[219.25s] (fr – French) SPEAKER_00: sont-elles
+[221.60s] (fr – French) SPEAKER_00: qu'il est difficile d'avoir l'espoir.
+[225.43s] (fr – French) SPEAKER_00: d'égaler votre pérennité
+[228.84s] (fr – French) SPEAKER_00: Mais du moins, j'espère...
+[231.57s] (fr – French) SPEAKER_00: que bien au-delà de l'horizon des personnes qui sont ici,
+[236.52s] (fr – French) SPEAKER_00: dans ce siège de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture.
+[243.72s] (fr – French) SPEAKER_00: Cette statue dont nous vous remercions.
+[246.93s] (fr – French) SPEAKER_00: témoignera avec la fidélité des sentiments que vous avez si noblement exprimés.
+[253.02s] (fr – French) SPEAKER_00: de la grandeur
+[255.13s] (pt – Portuguese) SPEAKER_00: da nossa taxa.
+[257.48s] (it – Italian) SPEAKER_00: chi è
+[258.84s] (fr – French) SPEAKER_00: ne sera jamais finie.
+[260.97s] (en – English) SPEAKER_00: you
+[261.27s] (fr – French) SPEAKER_00: Merci.
+[274.33s] (fr – French) SPEAKER_00: Vous voulez dire quelques mots? Non, non, non.
+[278.01s] (fr – French) SPEAKER_00: Merci.

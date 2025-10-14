@@ -6,4 +6,4 @@
 
 ## Workflow
 
-<img src="IntePARES_Audio_workflow.png" alt="InterPARES_Audio.jpg" width="45%" height="35%"/>
+<img src="IntePARES_Audio_workflow.png" alt="InterPARES_Audio.jpg"/>

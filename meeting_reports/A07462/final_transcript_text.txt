@@ -1,0 +1,2388 @@
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...
+[15.98s] (en – English) SPEAKER_00: you
+[16.62s] (en – English) SPEAKER_00: you
+[16.67s] (en – English) SPEAKER_00: you
+[16.87s] (ko – Korean) SPEAKER_00: MBC 뉴스 김성현입니다.
+[17.82s] (it – Italian) SPEAKER_00: Grazie.
+[24.97s] (en – English) SPEAKER_01: you
+[25.85s] (it – Italian) SPEAKER_01: Grazie.
+[33.31s] (it – Italian) SPEAKER_00: Grazie.
+[45.44s] (fr – French) SPEAKER_00: Monsieur le Président.
+[48.78s] (fr – French) SPEAKER_00: En vous souhaitant la bienvenue dans cette maison,
+[52.58s] (fr – French) SPEAKER_00: j'éprouve un double motif de satisfaction profonde.
+[57.49s] (fr – French) SPEAKER_00: Tout d'abord, c'est pour moi un très grand honneur
+[60.83s] (fr – French) SPEAKER_00: que de recevoir ici le président d'un État membre
+[64.51s] (fr – French) SPEAKER_00: qui n'a jamais ménagé son appui à l'œuvre de l'UNESCO.
+[69.54s] (fr – French) SPEAKER_00: Ensuite, je suis particulièrement heureux
+[72.53s] (fr – French) SPEAKER_00: d'accueillir en votre personne
+[74.94s] (fr – French) SPEAKER_00: un universitaire.
+[77.00s] (fr – French) SPEAKER_00: dont la pensée et l'œuvre
+[79.66s] (fr – French) SPEAKER_00: procède cette approche humaniste des problèmes contemporains
+[83.48s] (fr – French) SPEAKER_00: que l'organisation fait sienne
+[85.47s] (fr – French) SPEAKER_00: depuis sa fondation.
+[88.49s] (fr – French) SPEAKER_00: Les liens qui unissent l'UNESCO au Chili
+[91.36s] (en – English) SPEAKER_00: So no more.
+[93.99s] (fr – French) SPEAKER_00: Nous nous félicitons en premier lieu
+[96.57s] (fr – French) SPEAKER_00: d'avoir pu, dans la mesure modeste de nos moyens,
+[100.40s] (fr – French) SPEAKER_00: joindre nos efforts
+[102.04s] (fr – French) SPEAKER_00: à ceux des autorités chiliennes,
+[103.98s] (fr – French) SPEAKER_00: pour le développement du pays.
+[106.90s] (fr – French) SPEAKER_00: C'est ainsi que dans les domaines de la planification et de l'administration de l'éducation,
+[112.87s] (fr – French) SPEAKER_00: de la rénovation de l'enseignement des sciences,
+[115.78s] (fr – French) SPEAKER_00: de la réorganisation des universités et de l'amélioration de la condition des Indiens des Andes.
+[122.04s] (fr – French) SPEAKER_00: Nos experts servent ou ont servi
+[125.61s] (fr – French) SPEAKER_00: auprès des responsables chiliens
+[128.13s] (fr – French) SPEAKER_00: dans un climat d'excellente coopération.
+[132.16s] (fr – French) SPEAKER_00: Je voudrais à cet égard insister notamment
+[134.83s] (fr – French) SPEAKER_00: sur le travail accompli en commun depuis plusieurs années,
+[138.37s] (fr – French) SPEAKER_00: à la Faculté latino-américaine et sciences sociales,
+[141.80s] (fr – French) SPEAKER_00: dont les diplômés ont donné une remarquable impulsion au progrès de ces sciences en Amérique latine,
+[147.30s] (fr – French) SPEAKER_00: et plus récemment,
+[148.77s] (fr – French) SPEAKER_00: à l'école d'ingénieurs de l'université de Concepcion,
+[152.29s] (fr – French) SPEAKER_00: au développement de laquelle nous avons pu nous associer grâce au concours financier du Fonds spécial des Nations Unies.
+[159.72s] (fr – French) SPEAKER_00: Mais la présence de l'UNESCO au Chili
+[162.32s] (fr – French) SPEAKER_00: Elle ne s'inscrit pas seulement sur le plan national,
+[166.05s] (fr – French) SPEAKER_00: Santiago.
+[167.60s] (fr – French) SPEAKER_00: Par ailleurs, siège de la Commission économique des Nations Unies pour l'Amérique latine,
+[171.90s] (fr – French) SPEAKER_00: et pour l'organisation
+[173.71s] (fr – French) SPEAKER_00: Un de ces lieux essentiels
+[176.27s] (fr – French) SPEAKER_00: du continent latino-américain
+[178.72s] (fr – French) SPEAKER_00: où son action régionale trouve un point d'appui
+[181.93s] (fr – French) SPEAKER_00: et un foyer de rayonnement privilégié.
+[186.84s] (fr – French) SPEAKER_00: C'est ainsi qu'outre le bureau de coordination du projet majeur pour l'extension et l'amélioration de l'enseignement primaire en Amérique latine,
+[194.48s] (fr – French) SPEAKER_00: qui depuis trois ans bénéficie de votre généreuse hospitalité,
+[198.67s] (fr – French) SPEAKER_00: L'UNESCO trouve dans votre capitale des conditions matérielles et intellectuelles
+[203.49s] (fr – French) SPEAKER_00: et je dirais même affectives,
+[205.72s] (fr – French) SPEAKER_00: particulièrement propices pour ces grandes conférences régionales.
+[210.14s] (fr – French) SPEAKER_00: Je n'en citerai que deux.
+[212.18s] (fr – French) SPEAKER_00: la conférence des ministres de l'Éducation de l'Amérique latine,
+[215.83s] (fr – French) SPEAKER_00: En mars 1962,
+[218.14s] (fr – French) SPEAKER_00: sur la planification de l'éducation dans le cadre de la planification générale du développement,
+[223.71s] (fr – French) SPEAKER_00: qui a marqué une étape décisive dans l'approfondissement de l'action de l'organisation
+[228.59s] (fr – French) SPEAKER_00: dans l'ensemble du continent,
+[230.59s] (fr – French) SPEAKER_00: et que je n'aurai garde d'oublier.
+[232.50s] (fr – French) SPEAKER_00: puisque c'est à elle que je dois d'avoir eu l'occasion de connaître votre beau pays.
+[237.21s] (fr – French) SPEAKER_00: et la non moins importante conférence
+[239.94s] (fr – French) SPEAKER_00: sur l'application de la science et de la technique
+[242.93s] (fr – French) SPEAKER_00: au développement en Amérique latine
+[245.11s] (fr – French) SPEAKER_00: qui aura lieu du 13 au 22 septembre prochain.
+[249.98s] (fr – French) SPEAKER_00: Enfin, je tiens à ajouter
+[252.63s] (fr – French) SPEAKER_00: que si l'UNESCO se réjouit de sa présence au Chili,
+[256.11s] (fr – French) SPEAKER_00: elle ne se réjouit pas moins
+[258.05s] (fr – French) SPEAKER_00: de celle du Chili
+[259.43s] (fr – French) SPEAKER_00: au cœur de son action universelle.
+[261.88s] (fr – French) SPEAKER_00: Et je voudrais saisir cette occasion
+[263.99s] (fr – French) SPEAKER_00: de vous exprimer à quel point l'éminente contribution de son Excellence M. Juvenal Hernández
+[269.54s] (fr – French) SPEAKER_00: aux travaux du Conseil exécutif,
+[271.90s] (fr – French) SPEAKER_00: et la collaboration de plusieurs de vos compatriotes
+[275.67s] (fr – French) SPEAKER_00: qui servent soit comme fonctionnaires du secrétariat,
+[278.70s] (fr – French) SPEAKER_00: soit comme expert dans les États membres,
+[281.24s] (fr – French) SPEAKER_00: font honneur à votre pays
+[283.23s] (fr – French) SPEAKER_00: et sont dignes en tout point de ces plus nobles traditions spirituelles.
+[287.73s] (fr – French) SPEAKER_00: C'est dire, M. le Président,
+[289.84s] (fr – French) SPEAKER_00: Avec quel intérêt nous suivons vos efforts de rénovation nationale et régionale?
+[295.50s] (fr – French) SPEAKER_00: Et le retentissement qu'ont dans nos esprits et dans nos cœurs
+[299.28s] (fr – French) SPEAKER_00: Vos idées...
+[300.47s] (fr – French) SPEAKER_00: et vos actes.
+[302.28s] (es – Spanish) SPEAKER_00: Así bien.
+[303.48s] (fr – French) SPEAKER_00: Ces idées, ces actes,
+[305.35s] (fr – French) SPEAKER_00: procède-t-il de conceptions singulièrement proches de ceux de l'UNESCO?
+[310.21s] (fr – French) SPEAKER_00: Comme vous.
+[311.22s] (fr – French) SPEAKER_00: Nous pensons
+[312.29s] (fr – French) SPEAKER_00: que la croissance économique est inséparable du progrès social,
+[316.22s] (fr – French) SPEAKER_00: Et comme nous,
+[317.55s] (fr – French) SPEAKER_00: Vous savez que l'un et l'autre exigent qu'une place fondamentale soit faite.
+[322.44s] (fr – French) SPEAKER_00: dans la politique des gouvernements comme dans la vie des peuples,
+[325.62s] (fr – French) SPEAKER_00: à l'éducation.
+[326.93s] (fr – French) SPEAKER_00: à la science et à la culture.
+[329.77s] (fr – French) SPEAKER_00: L'éducation valorise en effet le facteur humain du développement
+[333.89s] (fr – French) SPEAKER_00: et met l'homme en mesure d'être l'agent de son histoire.
+[337.77s] (fr – French) SPEAKER_00: Quant à la science,
+[339.00s] (en – English) SPEAKER_00: you
+[339.05s] (fr – French) SPEAKER_00: C'est elle qui permet à l'homme de maîtriser la nature.
+[342.69s] (fr – French) SPEAKER_00: C'est donc grâce à elle que les peuples qui n'ont encore bénéficié que superficiellement du progrès technique
+[348.26s] (fr – French) SPEAKER_00: et qui l'ont reçu comme un apport extérieur
+[351.13s] (fr – French) SPEAKER_00: trouveront la possibilité de parvenir au stade du développement endogène.
+[356.30s] (fr – French) SPEAKER_00: c'est-à-dire du développement qui a son principe moteur dans le pays même,
+[360.99s] (fr – French) SPEAKER_00: c'est-à-dire du développement véritable.
+[364.18s] (fr – French) SPEAKER_00: Enfin, il ne faut jamais oublier
+[366.56s] (fr – French) SPEAKER_00: que la culture n'est ni un luxe,
+[369.12s] (fr – French) SPEAKER_00: ni un élément surajouté
+[371.33s] (fr – French) SPEAKER_00: mais que c'est en elle que les hommes cherchent les valeurs qui constituent leur raison de vivre.
+[376.82s] (fr – French) SPEAKER_00: dans cette perspective qui nous est commune.
+[379.77s] (fr – French) SPEAKER_00: Et pour me limiter à l'éducation,
+[382.40s] (fr – French) SPEAKER_00: Il m'est particulièrement agréable
+[384.70s] (fr – French) SPEAKER_00: de signaler ici l'action vigoureuse que votre gouvernement a entreprise dans ce domaine capital de l'éducation,
+[391.60s] (fr – French) SPEAKER_00: et les résultats remarquables qu'il y a déjà obtenus.
+[395.29s] (fr – French) SPEAKER_00: Il est parvenu en effet à un temps très court.
+[398.20s] (fr – French) SPEAKER_00: a augmenté sensiblement le taux de scolarisation
+[401.54s] (fr – French) SPEAKER_00: a formé un grand nombre de professeurs nouveaux
+[404.49s] (fr – French) SPEAKER_00: et a donné une impulsion extraordinaire en construction scolaire.
+[408.19s] (fr – French) SPEAKER_00: tout en multipliant les bourses et en accordant des prêts aux étudiants défavorisés.
+[413.20s] (fr – French) SPEAKER_00: Mais si votre gouvernement
+[415.14s] (fr – French) SPEAKER_00: à su prendre en considération les impératifs du développement national
+[419.43s] (fr – French) SPEAKER_00: Il n'a pas négligé pour autant, bien au contraire,
+[422.41s] (fr – French) SPEAKER_00: les devoirs de la solidarité régionale
+[425.25s] (fr – French) SPEAKER_00: ni les exigences de la coopération internationale.
+[429.53s] (fr – French) SPEAKER_00: Pour ce qui est de la première,
+[431.54s] (fr – French) SPEAKER_00: nul ne saurait oublier
+[433.20s] (fr – French) SPEAKER_00: votre lettre du mois de janvier
+[435.37s] (fr – French) SPEAKER_00: à quatre éminents économistes d'Amérique latine,
+[438.41s] (fr – French) SPEAKER_00: pour leur demander leur avis sur les possibilités
+[441.50s] (fr – French) SPEAKER_00: de réaliser l'intégration de la région
+[444.18s] (fr – French) SPEAKER_00: En même temps que son élargissement aux échanges internationaux,
+[447.99s] (fr – French) SPEAKER_00: ni votre message du 21 mai au Congrès,
+[451.32s] (fr – French) SPEAKER_00: dans lequel vous invitiez votre pays, et je me permets de vous citer,
+[455.45s] (fr – French) SPEAKER_00: à faire un effort créateur
+[458.02s] (fr – French) SPEAKER_00: pour donner un contenu
+[460.03s] (nl – Dutch) SPEAKER_00: Eén vorm.
+[461.34s] (fr – French) SPEAKER_00: à l'Amérique latine
+[462.95s] (fr – French) SPEAKER_00: en tant qu'expression
+[464.60s] (fr – French) SPEAKER_00: d'un monde nouveau.
+[467.05s] (fr – French) SPEAKER_00: Quant au système universel,
+[469.70s] (de – German) SPEAKER_00: der Ambasadeur Bernstein,
+[471.35s] (fr – French) SPEAKER_00: qui vous accompagne aujourd'hui.
+[473.24s] (fr – French) SPEAKER_00: en sa qualité de délégué permanent du Chili auprès de l'UNESCO,
+[477.22s] (fr – French) SPEAKER_00: a déclaré devant l'Assemblée générale des Nations unies
+[480.95s] (fr – French) SPEAKER_00: Nous réaffirmons notre foi dans l'organisation des Nations unies.
+[484.63s] (fr – French) SPEAKER_00: dans laquelle nous voyons l'instrument le plus fort,
+[487.75s] (fr – French) SPEAKER_00: pour assurer la paix
+[489.44s] (fr – French) SPEAKER_00: la stabilité,
+[490.84s] (fr – French) SPEAKER_00: et le progrès des peuples par la coopération internationale.
+[495.06s] (fr – French) SPEAKER_00: Cette conception de la coopération internationale
+[498.21s] (fr – French) SPEAKER_00: Vous l'avez vous-même exprimé, Monsieur le Président,
+[500.83s] (fr – French) SPEAKER_00: Il y a quelques mois,
+[502.50s] (fr – French) SPEAKER_00: en des termes d'une émouvante noblesse.
+[505.83s] (fr – French) SPEAKER_00: Ce pays,
+[507.21s] (fr – French) SPEAKER_00: Disiez-vous, en parlant du Chili,
+[509.82s] (fr – French) SPEAKER_00: aime la paix.
+[511.68s] (fr – French) SPEAKER_00: et nous désirons travailler à la faire prévaloir.
+[515.76s] (fr – French) SPEAKER_00: Nous lutterons pour que tous les pays
+[518.19s] (fr – French) SPEAKER_00: réalise une collaboration efficace
+[521.27s] (fr – French) SPEAKER_00: et combattent les égoïsmes,
+[523.32s] (fr – French) SPEAKER_00: et l'individualisme.
+[525.33s] (pt – Portuguese) SPEAKER_00: Sete teias.
+[526.83s] (fr – French) SPEAKER_00: doit être une terre de rencontres,
+[529.38s] (fr – French) SPEAKER_00: où puisse s'établir un dialogue pacifique.
+[532.61s] (fr – French) SPEAKER_00: ouvert.
+[533.65s] (fr – French) SPEAKER_00: et fraternelle.
+[536.49s] (fr – French) SPEAKER_00: Rien à mieux que ces paroles
+[538.73s] (fr – French) SPEAKER_00: Monsieur le Président.
+[540.52s] (fr – French) SPEAKER_00: ne saurait montrer que l'idéal de l'UNESCO est votre idéal et celui de votre pays.
+[546.29s] (fr – French) SPEAKER_00: et que vous êtes venus ici
+[548.64s] (fr – French) SPEAKER_00: non pas seulement comme un visiteur illustre,
+[552.10s] (fr – French) SPEAKER_00: mais comme un ami.
+[554.07s] (fr – French) SPEAKER_00: en qui nous saluons.
+[555.93s] (fr – French) SPEAKER_00: un des leaders du continent de l'espérance.
+[559.57s] (fr – French) SPEAKER_00: aussi
+[560.77s] (fr – French) SPEAKER_00: Est-ce avec une chaleur particulière?
+[563.27s] (fr – French) SPEAKER_00: que je tiens à vous remercier de l'encouragement que vous apportez à l'organisation,
+[568.18s] (fr – French) SPEAKER_00: et à vous exprimer les vœux sincères
+[571.05s] (fr – French) SPEAKER_00: qu'en son nom.
+[572.55s] (fr – French) SPEAKER_00: et en mon nom propre.
+[574.32s] (fr – French) SPEAKER_00: Je forme pour vous-même
+[575.97s] (fr – French) SPEAKER_00: et pour le peuple chilien.
+[579.69s] (sv – Swedish) SPEAKER_01: Ja, det var en riktig parod.
+[593.98s] (es – Spanish) SPEAKER_01: Señor Director General.
+[595.89s] (es – Spanish) SPEAKER_01: señores
+[598.18s] (es – Spanish) SPEAKER_01: Estoy aquí.
+[600.11s] (es – Spanish) SPEAKER_01: para dar testimonio.
+[601.62s] (es – Spanish) SPEAKER_01: en nombre de Chile,
+[603.73s] (es – Spanish) SPEAKER_01: de nuestro reconocimiento hacia UNESCO.
+[606.45s] (es – Spanish) SPEAKER_01: que es uno de los esfuerzos espirituales más importantes de nuestro tiempo.
+[611.88s] (es – Spanish) SPEAKER_01: en sus asambleas y congresos.
+[613.96s] (es – Spanish) SPEAKER_01: en su asistencia técnica.
+[616.95s] (es – Spanish) SPEAKER_01: En sus proyectos la UNESCO nos infunde confianza en los valores espirituales y morales.
+[623.14s] (es – Spanish) SPEAKER_01: las esperanzas que alienta sobrepasan las situaciones históricas.
+[626.99s] (es – Spanish) SPEAKER_01: dando a todos los grupos la idea fuerza
+[629.97s] (es – Spanish) SPEAKER_01: de quien la paz y por medio de la cooperación
+[633.52s] (es – Spanish) SPEAKER_01: es posible alcanzar
+[636.20s] (es – Spanish) SPEAKER_01: altos niveles en la cultura,
+[638.73s] (es – Spanish) SPEAKER_01: la ciencia y la educación.
+[641.91s] (es – Spanish) SPEAKER_01: frente a la política cultural.
+[644.49s] (es – Spanish) SPEAKER_01: a veces subordinada a intereses o fuerzas extrañas a ella,
+[648.64s] (es – Spanish) SPEAKER_01: La UNESCO sostiene una acción limpia de intenciones de dominio.
+[652.47s] (es – Spanish) SPEAKER_01: abierta y generosa.
+[655.05s] (es – Spanish) SPEAKER_01: Nuestros antepasados creyeron que la educación era un consumo.
+[659.03s] (es – Spanish) SPEAKER_01: Un lujo.
+[660.01s] (es – Spanish) SPEAKER_01: o un privilegio.
+[662.04s] (es – Spanish) SPEAKER_01: No muchos percibieron las relaciones que ella tenía con el desarrollo de la humanidad.
+[666.56s] (es – Spanish) SPEAKER_01: con la producción de bienes y servicios.
+[668.97s] (es – Spanish) SPEAKER_01: y con el mejoramiento de las condiciones de vida,
+[672.21s] (es – Spanish) SPEAKER_01: de las grandes masas humanas.
+[674.69s] (es – Spanish) SPEAKER_01: pero hoy en todo el mundo, aún en regiones atrasadas.
+[678.68s] (es – Spanish) SPEAKER_01: se fortalece la conciencia
+[681.16s] (es – Spanish) SPEAKER_01: de que la educación es la más importante y decisiva de las inversiones.
+[685.59s] (es – Spanish) SPEAKER_01: y la más firme garantía de bienestar en el porvenir.
+[689.91s] (es – Spanish) SPEAKER_01: cuando parece romperse el equilibrio entre la producción y las necesidades.
+[694.29s] (es – Spanish) SPEAKER_01: entre la enfermedad y la salud.
+[696.53s] (es – Spanish) SPEAKER_01: son la ciencia, la técnica y la educación
+[699.62s] (es – Spanish) SPEAKER_01: las que en última instancia abren los caminos y dan la respuesta adecuada.
+[704.63s] (es – Spanish) SPEAKER_01: las grandes catástrofes sufridas por la humanidad.
+[708.04s] (es – Spanish) SPEAKER_01: Durante la primera mitad del siglo XX,
+[710.99s] (es – Spanish) SPEAKER_01: Amagaron la vieja fe y la esperanza en el progreso.
+[714.45s] (es – Spanish) SPEAKER_01: Hubo necesidad entonces
+[717.02s] (es – Spanish) SPEAKER_01: de emprender una tarea intelectual y moral extraordinaria para afirmar nuevamente la fe en el hombre y en sus realizaciones espirituales.
+[726.40s] (es – Spanish) SPEAKER_01: Dos preguntas.
+[727.88s] (es – Spanish) SPEAKER_01: Fundamentales se plantean a la conciencia de los pueblos que están en un proceso de desarrollo.
+[732.95s] (es – Spanish) SPEAKER_01: y también a aquellos que han alcanzado los más altos escalones.
+[736.96s] (es – Spanish) SPEAKER_01: La primera es...
+[738.63s] (es – Spanish) SPEAKER_01: cuál será la significación y el valor de los productos de la inteligencia científica y técnica.
+[744.89s] (es – Spanish) SPEAKER_01: en la marcha de las aspiraciones morales de la humanidad.
+[748.77s] (es – Spanish) SPEAKER_01: Y la segunda...
+[749.92s] (es – Spanish) SPEAKER_01: Significa el desarrollo, un crecimiento y florecimiento de valores regionales y locales.
+[754.48s] (es – Spanish) SPEAKER_01: tales como los vemos expresarse en el alma de cada cultura.
+[757.80s] (es – Spanish) SPEAKER_01: o por el contrario, es en el largo trecho el establecimiento por encima de todas las diferencias culturales.
+[763.62s] (es – Spanish) SPEAKER_01: de una extraña uniformidad y monotonía mundiales,
+[767.57s] (es – Spanish) SPEAKER_01: La respuesta adecuada a estas preguntas es de máxima importancia para el porvenir de nuestro mundo.
+[773.01s] (es – Spanish) SPEAKER_01: Está escrito...
+[774.71s] (es – Spanish) SPEAKER_01: que sólo la verdad nos hará libres.
+[777.33s] (es – Spanish) SPEAKER_01: La ciencia y sus aplicaciones en lo más profundo de su sistema de comunicación e información poseen.
+[782.83s] (es – Spanish) SPEAKER_01: y al mismo tiempo se justifican.
+[785.12s] (es – Spanish) SPEAKER_01: por su fuerza liberadora.
+[786.76s] (es – Spanish) SPEAKER_01: de lo que el viejo demócrito llamaba
+[788.97s] (es – Spanish) SPEAKER_01: los monstruos de la noche.
+[791.43s] (es – Spanish) SPEAKER_01: para que esta función de la ciencia opere sobre la conciencia,
+[795.16s] (es – Spanish) SPEAKER_01: y oriente el comportamiento individual o colectivo,
+[798.71s] (es – Spanish) SPEAKER_01: es indispensable que ella esté regida por normas morales.
+[803.08s] (es – Spanish) SPEAKER_01: un saber acerca de la naturaleza y del hombre.
+[805.98s] (es – Spanish) SPEAKER_01: que puede ser usado
+[807.50s] (es – Spanish) SPEAKER_01: Contra el hombre.
+[809.02s] (es – Spanish) SPEAKER_01: porque unos son más poderosos que otros,
+[811.77s] (es – Spanish) SPEAKER_01: Degrada la dignidad humana.
+[814.08s] (es – Spanish) SPEAKER_01: pero al mismo tiempo anuncia el crepúsculo de la ciencia.
+[817.25s] (es – Spanish) SPEAKER_01: y agota las fuentes de donde emana la libertad.
+[821.20s] (es – Spanish) SPEAKER_01: un desenvolvimiento grandioso de los instrumentos del saber,
+[824.56s] (es – Spanish) SPEAKER_01: Y el poder.
+[825.89s] (es – Spanish) SPEAKER_01: como el que nuestra generación contempla,
+[828.07s] (es – Spanish) SPEAKER_01: sin controles morales en sus aplicaciones prácticas,
+[831.46s] (es – Spanish) SPEAKER_01: nos llevaría ineluctablemente al ocaso de la humanidad.
+[834.72s] (es – Spanish) SPEAKER_01: Por ello seríamos todos culpables.
+[837.55s] (es – Spanish) SPEAKER_01: La segunda pregunta que formulan con angustia las sociedades recientemente se incorporan a la comunidad mundial.
+[843.36s] (es – Spanish) SPEAKER_01: se refiere a la significación histórico-prospectiva del desarrollo.
+[847.44s] (es – Spanish) SPEAKER_01: ¿Qué es lo que debemos desarrollar?
+[850.01s] (es – Spanish) SPEAKER_01: Hasta el momento no han obtenido una respuesta clara.
+[853.60s] (es – Spanish) SPEAKER_01: Hay confusión y perplejidad.
+[856.49s] (es – Spanish) SPEAKER_01: en todos los continentes.
+[858.83s] (es – Spanish) SPEAKER_01: Las metas, fines y formas son elaborados fuera de sus propios ámbitos culturales,
+[863.69s] (es – Spanish) SPEAKER_01: Por eso se preguntan.
+[865.28s] (es – Spanish) SPEAKER_01: Son esas metas, valores y formas.
+[867.64s] (es – Spanish) SPEAKER_01: las que indefectiblemente se impondrán
+[870.63s] (es – Spanish) SPEAKER_01: Ese complejo que los pensadores dominan, la sinergización industrial,
+[874.75s] (es – Spanish) SPEAKER_01: será el que dará su forma a todas las culturas.
+[877.58s] (es – Spanish) SPEAKER_01: estructurará todos los ciudades de vida.
+[880.03s] (es – Spanish) SPEAKER_01: destruirá todas las formas de acercarse a la divinidad.
+[882.98s] (es – Spanish) SPEAKER_01: y en una palabra todas las experiencias acumuladas en el multiforme historial, regional y local.
+[888.11s] (es – Spanish) SPEAKER_01: Pues la respuesta será...
+[889.63s] (es – Spanish) SPEAKER_01: que en la intimidad del pensamiento del desarrollo recibe también el respeto
+[893.75s] (es – Spanish) SPEAKER_01: a las diversidades de expresión que posee la humanidad.
+[897.38s] (es – Spanish) SPEAKER_01: Dos tendencias parecen constantes y simultáneamente en el recurso de la vida histórica.
+[902.22s] (es – Spanish) SPEAKER_01: una que marcha hacia la constitución de un mundo uniforme.
+[905.24s] (es – Spanish) SPEAKER_01: Y la otra...
+[906.40s] (es – Spanish) SPEAKER_01: que se dirige a la diversificación.
+[909.54s] (es – Spanish) SPEAKER_01: Debemos, pues, revisar...
+[910.88s] (es – Spanish) SPEAKER_01: Nuestro concepto es acerca de la validez absoluta de la tecnología moderna.
+[915.13s] (es – Spanish) SPEAKER_01: Es decir, es urgente instaurar en la base
+[918.05s] (es – Spanish) SPEAKER_01: de todo el esfuerzo internacional
+[920.48s] (es – Spanish) SPEAKER_01: un humanismo que ha sido aliado por las ciencias sociales
+[923.79s] (es – Spanish) SPEAKER_01: Señale los métodos, forme el personal.
+[926.77s] (es – Spanish) SPEAKER_01: y diseñe los programas de trabajo que economicen dolor
+[929.76s] (es – Spanish) SPEAKER_01: y eliminen frustraciones.
+[932.10s] (es – Spanish) SPEAKER_01: Hablamos de la colaboración que las sociedades en pleno desarrollo prestan a las demás.
+[936.42s] (es – Spanish) SPEAKER_01: y entre otras a la sociedad latinoamericana.
+[939.33s] (es – Spanish) SPEAKER_01: tan íntimamente afiliada a las sociedades europeas.
+[942.77s] (es – Spanish) SPEAKER_01: No sería justo olvidar.
+[944.66s] (es – Spanish) SPEAKER_01: lo que las altas realizaciones también deben a aquellas culturas o sociedades.
+[948.88s] (es – Spanish) SPEAKER_01: que en algún momento histórico quedaron detenidas,
+[951.65s] (es – Spanish) SPEAKER_01: y que hoy se esfuerzan dramáticamente por recuperar el tiempo perdido,
+[955.38s] (es – Spanish) SPEAKER_01: y por armonizar su desarrollo.
+[957.47s] (es – Spanish) SPEAKER_01: con la velocidad del crecimiento moderno.
+[960.44s] (es – Spanish) SPEAKER_01: No podemos olvidar...
+[962.06s] (es – Spanish) SPEAKER_01: La inmensa contribución que esta sociedad ha proporcionado a la civilización occidental
+[966.73s] (es – Spanish) SPEAKER_01: ni el aporte económico incalculable que dieron en las sucesivas épocas del colonialismo,
+[971.76s] (es – Spanish) SPEAKER_01: en bienes y servicios personales.
+[974.09s] (es – Spanish) SPEAKER_01: en los aportes religiosos,
+[975.95s] (es – Spanish) SPEAKER_01: filosóficos o artísticos con que ilustraron y abrieron
+[978.95s] (es – Spanish) SPEAKER_01: la visión del mundo moderno.
+[981.48s] (es – Spanish) SPEAKER_01: Pero la historia del desarrollo...
+[983.91s] (es – Spanish) SPEAKER_01: Industrial nos ha enseñado que las posibilidades de expansión de la cultura, la ciencia y la educación
+[989.61s] (es – Spanish) SPEAKER_01: dependen en parte considerable de los cambios económicos, políticos y sociales que realicemos en cada uno de los países.
+[995.98s] (es – Spanish) SPEAKER_01: y que la velocidad, acierto y comprensión específica con que ellos se verifican,
+[1000.41s] (es – Spanish) SPEAKER_01: dependen a su vez del grado de intensidad con que opera la educación
+[1004.58s] (es – Spanish) SPEAKER_01: y las aplicaciones de la ciencia.
+[1007.05s] (es – Spanish) SPEAKER_01: ...en íntima conexión con esta política cultural del desarrollo...
+[1010.96s] (es – Spanish) SPEAKER_01: Chile ha mantenido una estrecha cooperación con las agencias internacionales especializadas,
+[1015.99s] (es – Spanish) SPEAKER_01: primero de la Liga de las Naciones,
+[1018.08s] (es – Spanish) SPEAKER_01: y ahora de las Naciones Unidas.
+[1020.39s] (es – Spanish) SPEAKER_01: ha acogido con interés a los expertos que le han sido enviados.
+[1023.60s] (es – Spanish) SPEAKER_01: porque comprende que en el mundo moderno
+[1025.81s] (es – Spanish) SPEAKER_01: Es indispensable la cooperación internacional
+[1028.76s] (es – Spanish) SPEAKER_01: y las ayudas que se puedan prestar, sobre todo en el campo ilimitado,
+[1032.19s] (es – Spanish) SPEAKER_01: de la vida intelectual y moral de la humanidad.
+[1035.06s] (es – Spanish) SPEAKER_01: Por esto mismo Chile...
+[1037.00s] (es – Spanish) SPEAKER_01: Mira con particular interés.
+[1039.50s] (es – Spanish) SPEAKER_01: Y mi gobierno prestará
+[1041.05s] (es – Spanish) SPEAKER_01: Todo su apoyo.
+[1042.65s] (es – Spanish) SPEAKER_01: A la próxima conferencia...
+[1044.42s] (es – Spanish) SPEAKER_01: sobre aplicación de la ciencia y la tecnología
+[1047.80s] (es – Spanish) SPEAKER_01: del desarrollo de América Latina.
+[1050.01s] (es – Spanish) SPEAKER_01: Por su temario.
+[1051.33s] (es – Spanish) SPEAKER_01: por sus objetivos.
+[1053.06s] (es – Spanish) SPEAKER_01: Esta conferencia incide en el centro de nuestras preocupaciones.
+[1056.76s] (es – Spanish) SPEAKER_01: Creemos que reuniones de esta naturaleza
+[1059.61s] (es – Spanish) SPEAKER_01: reflejan la acción de la UNESCO en su aspecto más dinámico
+[1063.02s] (en – English) SPEAKER_01: you
+[1063.09s] (es – Spanish) SPEAKER_01: y en su sentido más profundo.
+[1065.60s] (es – Spanish) SPEAKER_01: el esfuerzo nacional que en estos momentos realiza mi país.
+[1068.99s] (es – Spanish) SPEAKER_01: con la ayuda de todos los sectores sin distinción alguna,
+[1072.25s] (es – Spanish) SPEAKER_01: para mejorar y extender la educación.
+[1074.56s] (es – Spanish) SPEAKER_01: nos han permitido diseñar un programa amplio.
+[1077.42s] (es – Spanish) SPEAKER_01: especialmente en el campo de la educación primaria y de la educación media.
+[1081.28s] (es – Spanish) SPEAKER_01: Hemos coordinado planes de construcción escolar.
+[1084.62s] (es – Spanish) SPEAKER_01: de preparación de nuevos maestros,
+[1086.60s] (es – Spanish) SPEAKER_01: y el perfeccionamiento de los que están en servicio con otros.
+[1089.63s] (es – Spanish) SPEAKER_01: de asistencia alimenticia.
+[1091.67s] (es – Spanish) SPEAKER_01: de asistencia médico dental, becas y préstamos escolares en gran escala.
+[1095.96s] (es – Spanish) SPEAKER_01: y otras medidas más específicas que nos anuncian años,
+[1098.96s] (es – Spanish) SPEAKER_01: de una equilibrada explosión educacional en nuestro país.
+[1102.37s] (es – Spanish) SPEAKER_01: La respuesta...
+[1103.89s] (es – Spanish) SPEAKER_01: nacional ha sido profundamente alentadora.
+[1106.52s] (es – Spanish) SPEAKER_01: pero al mismo tiempo puede halagar a la UNESCO.
+[1109.61s] (es – Spanish) SPEAKER_01: como una demostración más de que es posible alcanzar lo que sus expertos
+[1113.71s] (es – Spanish) SPEAKER_01: han venido sosteniendo durante largos años.
+[1117.00s] (es – Spanish) SPEAKER_01: Quiero señalar algunos antecedentes como prueba de aquello que afirmo.
+[1121.07s] (es – Spanish) SPEAKER_01: Al asumir el gobierno en el mes de noviembre,
+[1123.62s] (es – Spanish) SPEAKER_01: Iniciamos un plan extraordinario de educación.
+[1126.49s] (es – Spanish) SPEAKER_01: el cual nos ha permitido construir en menos de seis meses
+[1129.58s] (es – Spanish) SPEAKER_01: 2.950 aulas.
+[1132.56s] (es – Spanish) SPEAKER_01: y estamos ciertos de completar 5.950 al término de este año.
+[1137.59s] (es – Spanish) SPEAKER_01: el uso de elementos prefabricados en proyectos básicos.
+[1140.63s] (es – Spanish) SPEAKER_01: aptos para una ulterior expansión.
+[1142.89s] (es – Spanish) SPEAKER_01: y la participación masiva del trabajo voluntario de estudiantes universitarios y las comunidades locales.
+[1148.09s] (es – Spanish) SPEAKER_01: se tradujo en bajo costo.
+[1150.72s] (es – Spanish) SPEAKER_01: y rápida ejecución.
+[1152.91s] (es – Spanish) SPEAKER_01: Para medir el alcance de este esfuerzo es suficiente señalar
+[1156.66s] (es – Spanish) SPEAKER_01: que 13 países latinoamericanos
+[1159.12s] (es – Spanish) SPEAKER_01: entre los que están los más importantes.
+[1161.64s] (es – Spanish) SPEAKER_01: han construido en conjunto un promedio en los últimos años de 7.941 aulas.
+[1167.60s] (es – Spanish) SPEAKER_01: cifra que nos permitimos comparar
+[1169.72s] (es – Spanish) SPEAKER_01: con 5.900 que se construirá Chile durante este presente año.
+[1174.46s] (es – Spanish) SPEAKER_01: La formación de maestros primarios se incrementó.
+[1177.48s] (es – Spanish) SPEAKER_01: con planes especiales de capacitación.
+[1179.90s] (es – Spanish) SPEAKER_01: al que se incorporaron 2.668 jóvenes
+[1183.66s] (es – Spanish) SPEAKER_01: que junto al asesorizado de las escuelas profesionales respectivas,
+[1186.71s] (es – Spanish) SPEAKER_01: significar un aumento global de 5.000 nuevos maestros de este nivel en el presente año.
+[1191.98s] (es – Spanish) SPEAKER_01: Programa Nacional de Auxilio Escoliar.
+[1194.17s] (es – Spanish) SPEAKER_01: financiado con una proporción del salario de los trabajadores del país,
+[1197.60s] (es – Spanish) SPEAKER_01: beneficiará a corto plazo con la sola exclusión de las becas
+[1200.81s] (es – Spanish) SPEAKER_01: a más del 70%,
+[1202.83s] (es – Spanish) SPEAKER_01: de nuestra población escolar.
+[1205.33s] (es – Spanish) SPEAKER_01: En esta forma, creemos que Chile señala en la educación
+[1209.01s] (es – Spanish) SPEAKER_01: las prioridades básicas que responden por lo demás...
+[1212.25s] (es – Spanish) SPEAKER_01: al emocionante anhelo
+[1213.85s] (es – Spanish) SPEAKER_01: que manifiestan las familias de mi patria para educar a sus hijos.
+[1217.76s] (es – Spanish) SPEAKER_01: Yo creo que las Naciones Unidas...
+[1220.03s] (es – Spanish) SPEAKER_01: y sus agencias especializadas.
+[1222.22s] (es – Spanish) SPEAKER_01: Y entre ellas, notablemente, la UNESCO...
+[1224.97s] (es – Spanish) SPEAKER_01: Son con todas sus imperfecciones.
+[1227.35s] (es – Spanish) SPEAKER_01: los mejores instrumentos que el hombre ha creado para buscar la paz y la unidad.
+[1232.80s] (es – Spanish) SPEAKER_01: Aquí, señor Presidente, señor Director General,
+[1235.84s] (es – Spanish) SPEAKER_01: se juntan pueblos con distintas visiones del mundo.
+[1238.94s] (es – Spanish) SPEAKER_01: y diversos grados de posibilidades.
+[1241.20s] (es – Spanish) SPEAKER_01: pero bien podemos decir que se cumple en ellos el versículo.
+[1244.49s] (es – Spanish) SPEAKER_01: De cualquier manera que los hombres se me acerquen,
+[1247.14s] (es – Spanish) SPEAKER_01: Así los acepto.
+[1248.56s] (es – Spanish) SPEAKER_01: porque todos los caminos que ellos recorren me pertenecen.
+[1255.55s] (ru – Russian) SPEAKER_00: Спасибо.
+[1264.20s] (fr – French) SPEAKER_00: Je vous demanderais de vous donner un exemplaire. Oui. Le peuple ouverte dans les idées.
+[1269.55s] (en – English) SPEAKER_01: you
+[1271.39s] (fr – French) SPEAKER_00: Oui, mais vraiment, c'est...

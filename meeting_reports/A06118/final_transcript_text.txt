@@ -1,0 +1,552 @@
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.
+[1.06s] (en – English) SPEAKER_00: Here in the studio, Mr Mahmood Ahmed Ali.
+[3.93s] (en – English) SPEAKER_00: who is the Director General of Education
+[6.16s] (en – English) SPEAKER_00: Somalia.
+[8.15s] (en – English) SPEAKER_00: The first, uh,
+[10.11s] (en – English) SPEAKER_00: Mr. Ali and
+[11.64s] (en – English) SPEAKER_00: What would you say are the problems in Africa
+[15.66s] (en – English) SPEAKER_00: that UNESCO should tackle most urgently.
+[19.50s] (en – English) SPEAKER_01: uh,
+[20.23s] (sw – Swahili (macrolanguage)) SPEAKER_01: Arimaha Afrika
+[22.74s] (so – Somali) SPEAKER_01: ay karikarto yuunasko inay lagsa waxo qaqqabadto
+[26.74s] (ar – Arabic) SPEAKER_01: وحقوقه الرئيسيات تعليم
+[29.28s] (ar – Arabic) SPEAKER_01: تعالي إنتبه صورة
+[31.15s] (en – English) SPEAKER_01: Wow.
+[32.04s] (ar – Arabic) SPEAKER_01: فربطنت هلو وكالو ودكات
+[34.93s] (ar – Arabic) SPEAKER_01: وحلم لينا يا وحلقة قبط امك افريكا
+[38.46s] (ar – Arabic) SPEAKER_01: وحقوين
+[39.81s] (ar – Arabic) SPEAKER_01: معلمين تووح لبره
+[41.91s] (es – Spanish) SPEAKER_01: Y yo.
+[42.98s] (ar – Arabic) SPEAKER_01: كتب عروت أخرصته الله سمعيه
+[46.32s] (mi – Maori) SPEAKER_01: O ana haini.
+[47.65s] (ar – Arabic) SPEAKER_01: تبريكي هوري استعماركم الكلوجي
+[51.38s] (ar – Arabic) SPEAKER_01: آي آخر السن دورين
+[52.50s] (en – English) SPEAKER_01: Yeah.
+[54.30s] (ar – Arabic) SPEAKER_01: أفريقيا
+[55.47s] (ar – Arabic) SPEAKER_01: يقلو البواطن كذا
+[57.69s] (ar – Arabic) SPEAKER_01: كوحي السابسن وعروطة
+[60.60s] (hi – Hindi) SPEAKER_01: बराया
+[61.68s] (es – Spanish) SPEAKER_01: Arrimajar un codo
+[64.71s] (en – English) SPEAKER_00: And, uh...
+[65.84s] (en – English) SPEAKER_00: In what ways can or will UNESCO
+[69.88s] (en – English) SPEAKER_00: give practical help.
+[72.24s] (en – English) SPEAKER_01: Uh,
+[73.02s] (ta – Tamil) SPEAKER_01: அன்னகா ஜம்ஹுரியத்தியது சோமாலியை
+[76.26s] (en – English) SPEAKER_01: UNESCO
+[77.61s] (ar – Arabic) SPEAKER_01: أدبي وحنو قطرتي
+[79.78s] (ar – Arabic) SPEAKER_01: وحي النصيين
+[81.79s] (ar – Arabic) SPEAKER_01: معلمين
+[83.28s] (ar – Arabic) SPEAKER_01: مرحبا بكم
+[85.52s] (si – Sinhala) SPEAKER_01: ඔබේ මිනිරින් මේදුරු කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීමෙන් කිරීම
+[88.24s] (ar – Arabic) SPEAKER_01: وأدو نكسن
+[90.16s] (ar – Arabic) SPEAKER_01: وحين نصادرته
+[92.25s] (ar – Arabic) SPEAKER_01: رق نقلت لي تعليم تيد السيدان وحققت جنو
+[97.33s] (ar – Arabic) SPEAKER_01: وحي كالون نوصو ديرين
+[99.34s] (ar – Arabic) SPEAKER_01: رقمنا لفضية الصومالية
+[101.35s] (so – Somali) SPEAKER_01: oo maalim ba wixia tala anu dooni inu
+[104.25s] (ar – Arabic) SPEAKER_01: اما يونس كوكو حساب صن
+[105.97s] (es – Spanish) SPEAKER_01: Nagala Kabta.
+[107.41s] (sw – Swahili (macrolanguage)) SPEAKER_01: Hadi anu egnu.
+[108.98s] (ar – Arabic) SPEAKER_01: وحائل الطاعي
+[110.46s] (ar – Arabic) SPEAKER_01: يونسكو
+[111.46s] (ur – Urdu) SPEAKER_01: جمہوریت دست سومالی
+[113.52s] (en – English) SPEAKER_01: Somalia.
+[115.29s] (ar – Arabic) SPEAKER_01: ومعاونة لأجل تحقيق أبال بضلنا عن الأجهزة
+[121.29s] (en – English) SPEAKER_00: To what extent has this 12th General Conference been of value in the context of what you've been saying?
+[129.14s] (am – Amharic) SPEAKER_01: ስስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስስ ስ
+[133.31s] (ar – Arabic) SPEAKER_01: أرهمها عن صراء أمك كهدلائي
+[136.70s] (ar – Arabic) SPEAKER_01: أدمو حقطرية
+[138.74s] (ar – Arabic) SPEAKER_01: ماركو خوري
+[140.36s] (ar – Arabic) SPEAKER_01: ولولي بقى
+[141.61s] (ar – Arabic) SPEAKER_01: وشكرا
+[142.76s] (ar – Arabic) SPEAKER_01: أريمها أرجوك
+[144.77s] (ar – Arabic) SPEAKER_01: وحيقبته
+[146.20s] (no – Norwegian) SPEAKER_01: i riva til det
+[147.77s] (ar – Arabic) SPEAKER_01: انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا انا
+[149.44s] (ne – Nepali (macrolanguage)) SPEAKER_01: मर्का आद्दिगैस तो दुनिदियो ओर्डन
+[152.43s] (en – English) SPEAKER_01: or with a huddley sir.
+[153.69s] (ar – Arabic) SPEAKER_01: بقول إيا صدح
+[155.15s] (ar – Arabic) SPEAKER_01: طب أنت دولة دو
+[156.43s] (so – Somali) SPEAKER_01: ya halkan isgu mi dhokawa dhaxadlayya
+[158.77s] (so – Somali) SPEAKER_01: markaa dh niggi sato waxad dh u kawad hadlay soo.
+[161.79s] (ar – Arabic) SPEAKER_01: وحيث تلاها أيام
+[163.35s] (ar – Arabic) SPEAKER_01: وحي وحكاق قفتين
+[164.97s] (ar – Arabic) SPEAKER_01: معناه وين باتك راسو بيحك ريسا
+[167.21s] (ar – Arabic) SPEAKER_01: هاي الاشياء
+[168.70s] (ar – Arabic) SPEAKER_01: حضنا
+[170.16s] (ar – Arabic) SPEAKER_01: تعليمت أفريقيا شركة كانو سي آدة
+[173.64s] (ar – Arabic) SPEAKER_01: يؤفر صلي
+[175.24s] (ar – Arabic) SPEAKER_01: وحان الأمريكية
+[177.00s] (ur – Urdu) SPEAKER_01: جمہوریت دن نصوہ ماردو
+[178.97s] (ta – Tamil) SPEAKER_01: மற்கச்சிற்குள் நம்மாதோ
+[181.72s] (en – English) SPEAKER_01: Waha!
+[182.69s] (ar – Arabic) SPEAKER_01: أنك لا يمكننا أن نتوقف عنه
+[185.37s] (en – English) SPEAKER_01: Wow.
+[186.35s] (ar – Arabic) SPEAKER_01: فهذا يجعله يتعلم
+[188.96s] (ar – Arabic) SPEAKER_01: وحنم لينا يا أرنطاس
+[191.14s] (ar – Arabic) SPEAKER_01: وحب معاونا انه هل كان ما انت كهلنا
+[193.65s] (ar – Arabic) SPEAKER_01: سيضيئ مكوس عطو
+[195.34s] (tr – Turkish) SPEAKER_01: MİT
+[196.32s] (en – English) SPEAKER_01: Um,
+[197.15s] (si – Sinhala) SPEAKER_01: එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න එක් කොන්න
+[200.24s] (es – Spanish) SPEAKER_01: Ahí no con esa.
+[202.28s] (en – English) SPEAKER_00: Thank you, Mr. Mahmoud Ahmed Ali.

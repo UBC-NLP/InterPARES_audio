@@ -1,0 +1,780 @@
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.
+[1.04s] (fr – French) SPEAKER_02: au restaurant ici.
+[2.49s] (en – English) SPEAKER_01: you
+[2.71s] (en – English) SPEAKER_02: Thank you.
+[3.00s] (en – English) SPEAKER_01: you
+[3.61s] (en – English) SPEAKER_01: Thank you.
+[4.03s] (es – Spanish) SPEAKER_01: Gracias.
+[7.05s] (en – English) SPEAKER_01: Thank you.
+[8.32s] (fr – French) SPEAKER_01: Merci.
+[19.39s] (en – English) SPEAKER_01: as soon as I'm back.
+[20.64s] (fr – French) SPEAKER_01: Alors nous allons essayer de diviser ça de la façon la meilleure, partager les conférences.
+[25.44s] (fr – French) SPEAKER_01: Alors, je vais vous dire en quelques mots.
+[28.16s] (fr – French) SPEAKER_01: Comment est née cette histoire?
+[31.15s] (fr – French) SPEAKER_01: Elle est née de l'initiative de cette fillette que vous voyez là.
+[35.64s] (fr – French) SPEAKER_01: qui, lorsqu'elle a entendu qu'un beau jour l'UNESCO
+[39.74s] (es – Spanish) SPEAKER_01: Este...
+[40.62s] (fr – French) SPEAKER_01: sur le point d'essayer de sauver les monuments de Munubi qui devaient être submergés.
+[46.89s] (fr – French) SPEAKER_01: s'est dit qu'elle devait elle aussi faire quelque chose.
+[50.12s] (fr – French) SPEAKER_01: Son geste a été très, très émouvant.
+[53.09s] (fr – French) SPEAKER_01: Et il a ému.
+[54.72s] (fr – French) SPEAKER_01: le directeur général, qui par la suite
+[57.69s] (fr – French) SPEAKER_01: a fait des copies de la lettre qu'elle avait adressée au conservateur du Louvre et qui nous est parvenue
+[63.19s] (fr – French) SPEAKER_01: Cette copie a été distribuée à travers tout le monde dans un nombre
+[67.65s] (en – English) SPEAKER_01: THEIR FAMILY.
+[68.22s] (fr – French) SPEAKER_01: je dirais très important de langue,
+[71.31s] (fr – French) SPEAKER_01: jusqu'au moment
+[72.46s] (en – English) SPEAKER_01: I'M NOT SURE.
+[73.45s] (fr – French) SPEAKER_01: La réputation, la renommée de Mlle Yvette Sauvage a dépassé la Méditerranée.
+[78.77s] (pt – Portuguese) SPEAKER_01: Eita, aí veio.
+[79.88s] (fr – French) SPEAKER_01: sur les bords d'une île.
+[81.79s] (fr – French) SPEAKER_01: où le ministre Kacha lui aussi n'a pas voulu.
+[85.28s] (en – English) SPEAKER_01: No, you haven't seen it.
+[87.00s] (es – Spanish) SPEAKER_01: Y hace unas semanas
+[89.65s] (fr – French) SPEAKER_01: Il nous a demandé...
+[91.58s] (fr – French) SPEAKER_01: de bien vouloir.
+[93.32s] (fr – French) SPEAKER_01: organiser une petite cérémonie durant laquelle le prince Adrodinkan
+[97.38s] (fr – French) SPEAKER_01: aurait remis
+[99.04s] (pt – Portuguese) SPEAKER_01: A Ivete Sovage...
+[100.93s] (fr – French) SPEAKER_01: Un souvenir du gouvernement égyptien qui est ici et que vous verrez tout à l'heure.
+[105.69s] (fr – French) SPEAKER_01: Alors...
+[106.77s] (fr – French) SPEAKER_01: Le directeur général...
+[109.23s] (en – English) SPEAKER_01: uh,
+[110.06s] (fr – French) SPEAKER_01: évidemment accepté cette suggestion avec le plus grand enthousiasme et c'est pour cela que nous vous avons demandé
+[116.23s] (pt – Portuguese) SPEAKER_01: devenia e se hoje odeia.
+[117.77s] (fr – French) SPEAKER_01: Je crois que le problème est posé d'une façon assez succincte et claire.
+[122.32s] (es – Spanish) SPEAKER_01: Lo de...
+[123.30s] (fr – French) SPEAKER_01: Le prince Adrodine Khan lui-même qui vous fournira tous les éléments.
+[130.83s] (fr – French) SPEAKER_02: Alors je crois que comme M. Vriani l'a indiqué,
+[134.24s] (fr – French) SPEAKER_02: Nous allons...
+[136.53s] (fr – French) SPEAKER_02: Nous borner simplement ici.
+[139.32s] (fr – French) SPEAKER_02: répondre à des questions que vous avez à poser.
+[142.56s] (fr – French) SPEAKER_02: Quoi que M. Vriani, je crois, a...
+[145.32s] (fr – French) SPEAKER_02: traiter le problème de façon tout à fait claire.
+[148.21s] (fr – French) SPEAKER_02: et nous descendrons en bas.
+[151.08s] (fr – French) SPEAKER_02: comme vous nous l'avez demandé, pour faire la présentation
+[153.83s] (fr – French) SPEAKER_02: Du souvenir que le ministre de la Culture et de l'Orientation nationale de la République arabe-unie,
+[159.63s] (fr – French) SPEAKER_02: a bien voulu nous faire parvenir pour le destiner à Yvette Sauvage.
+[165.10s] (ru – Russian) SPEAKER_01: А, какие-то шоу забудем.
+[168.68s] (en – English) SPEAKER_01: I don't know.
+[169.05s] (fr – French) SPEAKER_00: Je vous donne ma collecte. C'est une collecte que j'ai récoltée...
+[169.07s] (fr – French) SPEAKER_01: En plus.
+[175.48s] (fr – French) SPEAKER_00: A peu près.
+[179.06s] (fr – French) SPEAKER_00: J'espère que
+[180.88s] (fr – French) SPEAKER_00: Elle n'est pas suffisante.
+[181.94s] (en – English) SPEAKER_02: kid
+[182.21s] (fr – French) SPEAKER_00: Merci, Omer.
+[182.89s] (fr – French) SPEAKER_02: Très gentil, ça nous touche beaucoup.
+[184.22s] (pt – Portuguese) SPEAKER_00: Bom...
+[185.49s] (fr – French) SPEAKER_02: Je sais que j'exprime la reconnaissance du directeur général de l'UNESCO.
+[190.11s] (fr – French) SPEAKER_02: du ministre de la Culture et de l'Orientation nationale de la République arabe-unie. Et je t'exprime également ma reconnaissance personnelle pour le geste que tu as fait.
+[198.35s] (fr – French) SPEAKER_00: À bientôt.
+[198.45s] (fr – French) SPEAKER_02: a bien voulu faire en me donnant cette collecte. Nous sommes tous très touchés.
+[202.24s] (fr – French) SPEAKER_00: Mais j'espère que je vous en enverrai d'autres.
+[205.96s] (fr – French) SPEAKER_00: pour...
+[207.26s] (en – English) SPEAKER_00: Come in.
+[207.93s] (en – English) SPEAKER_00: See you.
+[208.69s] (fr – French) SPEAKER_02: Je l'espère beaucoup et je dois dire que si toutes les petites filles
+[212.39s] (fr – French) SPEAKER_02: du monde entier, comme toi, avait pris l'initiative de faire une collègue de ce genre.
+[217.48s] (fr – French) SPEAKER_02: Ça avancerait certainement d'une façon très positive notre campagne.
+[221.13s] (fr – French) SPEAKER_00: Elle réussira certainement.
+[222.66s] (es – Spanish) SPEAKER_02: Yo les voy a buscar.
+[227.46s] (fr – French) SPEAKER_02: Nous faisons ça ici.
+[250.98s] (en – English) SPEAKER_01: you
+[251.01s] (es – Spanish) SPEAKER_02: Gracias.
+[256.41s] (fr – French) SPEAKER_02: Comme tu vois, elle est très très belle et elle nous a été envoyée pour toi.
+[260.24s] (fr – French) SPEAKER_02: par son Excellence le Dr Okasha, qui est le ministre de la Culture et de l'Orientation nationale de la République arabe unie,
+[262.91s] (en – English) SPEAKER_00: Thank you.
+[266.86s] (fr – French) SPEAKER_02: J'ai particulièrement le plaisir de te la donner ici.
+[270.71s] (fr – French) SPEAKER_02: dans le bâtiment même de l'UNESCO qui s'occupe de la campagne du Nubie.
+[276.21s] (fr – French) SPEAKER_00: Elle est vraiment très jolie.
+[277.88s] (fr – French) SPEAKER_02: Elle me plaît beaucoup.
+[277.89s] (fr – French) SPEAKER_00: Elle me plaît beaucoup.
+[280.71s] (fr – French) SPEAKER_02: Et que ce sera un souvenir durable de tes efforts dans ce...
+[282.69s] (fr – French) SPEAKER_00: Oui.
+[283.97s] (fr – French) SPEAKER_02: dans le cadre de cette initiative.
+[284.34s] (fr – French) SPEAKER_00: C'est un peu comme ça.
+[289.79s] (en – English) SPEAKER_02: Fuck it.
+[290.48s] (fr – French) SPEAKER_02: Probablement pour les photos, nous pourrions...
+[296.41s] (pt – Portuguese) SPEAKER_02: Amém.
+[298.97s] (en – English) SPEAKER_02: you
+[299.43s] (en – English) SPEAKER_02: That's it, hey? Never mind. We can just, I present you with, she can, she's an actor. Well, don't you think, don't you think we should have, do you think you,
+[300.91s] (en – English) SPEAKER_01: I'm not going to go to the bathroom.
+[302.25s] (en – English) SPEAKER_00: I'm just...
+[304.95s] (en – English) SPEAKER_01: Well, don't you think we should have...
+[309.87s] (en – English) SPEAKER_02: Instead of Mr. Verioni could give the preparatory statement that he gave in French, which they all took in French.
+[310.09s] (en – English) SPEAKER_01: I'm sorry.
+[311.91s] (en – English) SPEAKER_00: you
+[311.93s] (en – English) SPEAKER_01: Yeah.
+[313.80s] (en – English) SPEAKER_01: Yes, you can.
+[315.53s] (en – English) SPEAKER_02: I've been writing that. I'm doing it separately. All right.
+[318.16s] (fr – French) SPEAKER_02: Comment nous faisions ce qu'on a fait en français, en anglais, pour que ça puisse passer sur le poste de radio des Nations Unies.
+[326.41s] (fr – French) SPEAKER_02: et être repris éventuellement par certaines postes de langue anglaise.
+[329.35s] (sv – Swedish) SPEAKER_02: Jag vill att du säger några grejer.
+[331.74s] (fr – French) SPEAKER_02: ce que je t'ai dit en français
+[334.29s] (en – English) SPEAKER_01: Ahem.
+[334.88s] (en – English) SPEAKER_02: you
+[338.63s] (en – English) SPEAKER_02: Yvette.
+[339.51s] (en – English) SPEAKER_02: I have great pleasure.
+[341.13s] (en – English) SPEAKER_02: in presenting this souvenir head of Nefertiti
+[345.55s] (en – English) SPEAKER_02: which was sent
+[347.05s] (en – English) SPEAKER_02: to UNESCO.
+[348.48s] (en – English) SPEAKER_02: by His Excellency Dr. Lukasha.
+[351.45s] (en – English) SPEAKER_02: the Minister of Culture and National Orientation of the United Arab Republic.
+[356.41s] (en – English) SPEAKER_02: to be given over to you
+[358.30s] (en – English) SPEAKER_02: in recognition and in gratitude
+[361.73s] (en – English) SPEAKER_02: for the efforts which you have very kindly
+[365.14s] (en – English) SPEAKER_02: made to collect what you have given me in favor of the campaign for Nubia.
+[370.32s] (en – English) SPEAKER_02: I hope you like it.
+[371.75s] (en – English) SPEAKER_02: and I hope it will be a lasting memento
+[374.32s] (en – English) SPEAKER_02: of your wonderful action in this connection. Thank you so much.
+[377.39s] (en – English) SPEAKER_00: Thank you very much.

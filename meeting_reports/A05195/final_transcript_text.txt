@@ -1,0 +1,942 @@
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.
+[2.26s] (en – English) SPEAKER_00: This is a recording for the BBC's Arabic service.
+[5.43s] (en – English) SPEAKER_00: I'm John Irving here and I'm going to talk to Mr.
+[8.76s] (en – English) SPEAKER_00: Mahmoud
+[10.09s] (ro – Romanian) SPEAKER_00: Amed.
+[11.64s] (en – English) SPEAKER_00: You spell that M-A-H-M-O-U-D for dog.
+[16.82s] (en – English) SPEAKER_00: A.
+[17.67s] (en – English) SPEAKER_00: H-M-E
+[19.49s] (en – English) SPEAKER_00: D.
+[21.23s] (en – English) SPEAKER_00: I'm giving you spelling because this is going to be sent by telephone to London rather than
+[26.04s] (en – English) SPEAKER_00: the actual tape itself.
+[27.79s] (en – English) SPEAKER_00: Now, I'm going to ask Mr.
+[30.56s] (en – English) SPEAKER_00: Mahu Mood.
+[31.77s] (en – English) SPEAKER_00: Ahmed, a series of questions.
+[34.46s] (en – English) SPEAKER_00: in English and he is going to reply in Arabic.
+[37.38s] (en – English) SPEAKER_00: Now the first question
+[38.83s] (en – English) SPEAKER_00: is
+[39.54s] (en – English) SPEAKER_00: Whereabouts in Somaliland do you come from?
+[41.80s] (en – English) SPEAKER_00: In Somali Republic do you come from?
+[44.58s] (ar – Arabic) SPEAKER_01: إنني من القسم الشمالي
+[48.04s] (ar – Arabic) SPEAKER_01: الذي كان يعرف سابقاً
+[51.31s] (ar – Arabic) SPEAKER_01: بالمحمية الصومالية
+[53.86s] (en – English) SPEAKER_01: Wakana Tujiruha
+[55.62s] (ko – Korean) SPEAKER_01: 인길자락
+[57.81s] (en – English) SPEAKER_00: And what is your position?
+[60.33s] (ar – Arabic) SPEAKER_01: مدير المعارف
+[62.38s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة
+[64.32s] (ar – Arabic) SPEAKER_01: في مقدشة
+[65.52s] (it – Italian) SPEAKER_01: Le annoni
+[66.77s] (tl – Tagalog) SPEAKER_01: Intakal'to min Hargaysa ila Mugdisho.
+[69.67s] (ar – Arabic) SPEAKER_01: بعد استغلال الصومل
+[73.50s] (en – English) SPEAKER_00: In what particular field
+[75.34s] (en – English) SPEAKER_00: is the Somali Republic seeking assistance from UNESCO?
+[80.95s] (ar – Arabic) SPEAKER_01: هناك
+[82.18s] (ar – Arabic) SPEAKER_01: مشاكل
+[83.58s] (pt – Portuguese) SPEAKER_01: Adida
+[85.03s] (en – English) SPEAKER_01: Tuwaji Hu.
+[86.09s] (ar – Arabic) SPEAKER_01: جمهورية الصومال
+[87.95s] (ar – Arabic) SPEAKER_01: الجديدة
+[89.67s] (id – Indonesian) SPEAKER_01: Minha
+[90.97s] (ar – Arabic) SPEAKER_01: مشاكل علمية
+[93.21s] (ar – Arabic) SPEAKER_01: ومنها صعوبات مادية
+[97.03s] (ar – Arabic) SPEAKER_01: ولكن
+[98.04s] (ar – Arabic) SPEAKER_01: من أهمها
+[99.83s] (ar – Arabic) SPEAKER_01: تدريب المعلمين
+[102.19s] (ar – Arabic) SPEAKER_01: والتوسيع
+[103.51s] (ar – Arabic) SPEAKER_01: نطاق التعليم
+[105.43s] (ar – Arabic) SPEAKER_01: بحالة منتظمة
+[108.25s] (ar – Arabic) SPEAKER_01: تشمل
+[109.13s] (ar – Arabic) SPEAKER_01: جميع
+[109.87s] (ar – Arabic) SPEAKER_01: مراحل التعليم
+[111.78s] (ar – Arabic) SPEAKER_01: في توازن وانسجام
+[116.65s] (en – English) SPEAKER_00: I understand that
+[118.73s] (en – English) SPEAKER_00: The Somali Republic is now made up of the old
+[122.17s] (en – English) SPEAKER_00: ex-colonial territories of Italian Somaliland and British Somaliland,
+[127.30s] (en – English) SPEAKER_00: Each has its own language tradition and tradition of schooling.
+[131.27s] (en – English) SPEAKER_00: Has this given you as an educationalist
+[134.41s] (en – English) SPEAKER_00: certain problems.
+[136.48s] (en – English) SPEAKER_00: No.
+[136.60s] (ar – Arabic) SPEAKER_01: نعم
+[137.83s] (en – English) SPEAKER_00: you
+[137.85s] (ur – Urdu) SPEAKER_01: ہاں دی ہی مشکلہ
+[139.92s] (te – Telugu) SPEAKER_01: సబ్పత్లన
+[141.56s] (ar – Arabic) SPEAKER_01: كثيرا من المصاعب
+[144.65s] (ar – Arabic) SPEAKER_01: ولم يتخذ
+[146.40s] (pt – Portuguese) SPEAKER_01: FIHA!
+[147.40s] (ar – Arabic) SPEAKER_01: إلى الآن
+[148.78s] (ar – Arabic) SPEAKER_01: تقرير
+[149.93s] (ar – Arabic) SPEAKER_01: نهاية
+[151.38s] (ar – Arabic) SPEAKER_01: ونحن على كل حال
+[153.78s] (ar – Arabic) SPEAKER_01: سوف نراعي
+[155.91s] (ar – Arabic) SPEAKER_01: ذلك
+[157.49s] (ar – Arabic) SPEAKER_01: مصلحتنا الخاصة
+[159.74s] (ar – Arabic) SPEAKER_01: قبل غيرها
+[163.26s] (en – English) SPEAKER_00: Now, another of the projects which are being discussed by this 11th General Conference of UNESCO here in Paris
+[170.52s] (en – English) SPEAKER_00: is a project to develop oceanography throughout the world. And one of the
+[176.05s] (en – English) SPEAKER_00: parts of this project is to start
+[179.24s] (en – English) SPEAKER_00: the training of
+[181.02s] (en – English) SPEAKER_00: oceanographers,
+[182.40s] (en – English) SPEAKER_00: with
+[183.02s] (en – English) SPEAKER_00: specific reference to the Indian Ocean.
+[185.28s] (en – English) SPEAKER_00: because the Indian Ocean being one of the oceans of the world which is least known
+[189.52s] (en – English) SPEAKER_00: from a scientific point of view.
+[191.41s] (en – English) SPEAKER_00: Now I'd be most interested to know
+[193.86s] (en – English) SPEAKER_00: Um,
+[194.48s] (en – English) SPEAKER_00: weather
+[195.39s] (en – English) SPEAKER_00: this project is of interest to the Somali Republic.
+[199.17s] (en – English) SPEAKER_01: Mm.
+[199.97s] (fr – French) SPEAKER_01: Quand tu...
+[200.86s] (ar – Arabic) SPEAKER_01: في اللجنة العامة
+[202.78s] (ar – Arabic) SPEAKER_01: للبرامج
+[205.11s] (ar – Arabic) SPEAKER_01: حيث بحث هذا الموضوع
+[209.10s] (ar – Arabic) SPEAKER_01: ولا شك أنهم مهم
+[211.88s] (id – Indonesian) SPEAKER_01: bernisbah
+[213.20s] (ar – Arabic) SPEAKER_01: للصومال كغيرها من الأقطار
+[216.44s] (ar – Arabic) SPEAKER_01: على شواطئ المحيط الهندي
+[219.49s] (ar – Arabic) SPEAKER_01: فالبحار المجاورة للصومال
+[223.00s] (ar – Arabic) SPEAKER_01: غنية جداً
+[224.81s] (ar – Arabic) SPEAKER_01: بالأسماك
+[226.71s] (ar – Arabic) SPEAKER_01: ولا شك
+[228.20s] (ar – Arabic) SPEAKER_01: أننا سوف نستفيد كثيرا
+[231.03s] (ar – Arabic) SPEAKER_01: من المعلومات العلمية
+[233.45s] (ar – Arabic) SPEAKER_01: التي
+[234.58s] (pt – Portuguese) SPEAKER_01: Sou Fatu Dima.
+[235.83s] (ar – Arabic) SPEAKER_01: بعض الابحاثات
+[237.73s] (ar – Arabic) SPEAKER_01: المقترحة
+[239.01s] (ar – Arabic) SPEAKER_01: الآن
+[241.21s] (en – English) SPEAKER_00: Mr. Mahmoud
+[242.27s] (en – English) SPEAKER_00: Ahmed
+[242.88s] (en – English) SPEAKER_00: You've been sitting here in Paris now,
+[245.71s] (en – English) SPEAKER_00: with all the other delegates listening to the various plans that UNESCO has for
+[250.96s] (en – English) SPEAKER_00: helping new countries all around the world.
+[253.85s] (en – English) SPEAKER_00: Um,
+[254.42s] (en – English) SPEAKER_00: What do you feel? Do you feel at the moment that there has been a fair division of funds between, say,
+[261.09s] (en – English) SPEAKER_00: American continent and the Far East and the Middle East with which we all
+[266.64s] (ar – Arabic) SPEAKER_01: إن الإنسان
+[269.02s] (ar – Arabic) SPEAKER_01: متى يجلس؟
+[270.81s] (ar – Arabic) SPEAKER_01: في اللجنات الخاصة
+[273.69s] (ar – Arabic) SPEAKER_01: لتقسيم الأموال التي
+[278.32s] (en – English) SPEAKER_01: Uh, fee.
+[280.05s] (en – English) SPEAKER_01: How's it UNESCO?
+[282.96s] (ar – Arabic) SPEAKER_01: وينظر إلى الطلبات العديدة التي
+[286.72s] (ar – Arabic) SPEAKER_01: تتقدم
+[287.68s] (ar – Arabic) SPEAKER_01: بها الأمم الحاضرة
+[290.08s] (tr – Turkish) SPEAKER_01: yudrukku tamamen
+[291.85s] (ar – Arabic) SPEAKER_01: الصعوبة
+[292.81s] (ar – Arabic) SPEAKER_01: التي لا بد منها
+[295.23s] (ar – Arabic) SPEAKER_01: ولا شك أن القائمين بالأمر
+[299.70s] (ar – Arabic) SPEAKER_01: في مركز الرئاسة في يونسكو
+[302.95s] (ar – Arabic) SPEAKER_01: يحاولون بقدر الاستطاع
+[307.22s] (en – English) SPEAKER_01: On, uh...
+[309.45s] (ar – Arabic) SPEAKER_01: ينصفوا
+[310.73s] (ar – Arabic) SPEAKER_01: بين الطلبات المختلفة
+[313.79s] (ar – Arabic) SPEAKER_01: ولكن على كل حال
+[316.05s] (ar – Arabic) SPEAKER_01: من الذي يستطيع أن يرضي العالم بأجمعه؟
+[320.67s] (en – English) SPEAKER_00: One last question I would like to ask.
+[322.98s] (en – English) SPEAKER_00: Is the work of UNESCO at present well known in the Somali Republic?
+[327.66s] (ar – Arabic) SPEAKER_01: نعم
+[328.82s] (ar – Arabic) SPEAKER_01: نعرف عن يونسكو
+[330.39s] (ar – Arabic) SPEAKER_01: وأعمالها في الصومال
+[332.82s] (ar – Arabic) SPEAKER_01: بحالة عامة
+[335.59s] (ar – Arabic) SPEAKER_01: ولكن
+[337.09s] (ar – Arabic) SPEAKER_01: قبل وصولنا هنا
+[339.57s] (ar – Arabic) SPEAKER_01: حاولنا
+[340.82s] (ar – Arabic) SPEAKER_01: بدون تأخير
+[342.56s] (ar – Arabic) SPEAKER_01: أن نعرف
+[343.84s] (ar – Arabic) SPEAKER_01: عن أقسامها المختلفة.
+[346.64s] (ar – Arabic) SPEAKER_01: واختصاصات كل منها
+[349.65s] (ar – Arabic) SPEAKER_01: ولا شك
+[351.22s] (ar – Arabic) SPEAKER_01: أن المعلومات
+[353.29s] (ar – Arabic) SPEAKER_01: التي
+[355.30s] (ar – Arabic) SPEAKER_01: جمعناها
+[356.68s] (ar – Arabic) SPEAKER_01: من هذه الناحية
+[358.41s] (ar – Arabic) SPEAKER_01: سوف تكون لنا مفيدة جدا
+[360.82s] (ar – Arabic) SPEAKER_01: في المستقبل
+[362.13s] (ar – Arabic) SPEAKER_01: عندما نقدم الطلبات إلى يونسكو
+[365.37s] (ar – Arabic) SPEAKER_01: أو في المؤتمرات المقبلة
+[368.21s] (en – English) SPEAKER_00: Thank you very much, Mr. Mahmoud Ahmed.

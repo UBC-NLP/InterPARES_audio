@@ -1,0 +1,1188 @@
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.
+[1.03s] (vi – Vietnamese) SPEAKER_00: Thưa đồng bào,
+[2.68s] (vi – Vietnamese) SPEAKER_00: Nhân danh trưởng Phái đoàn Việt Nam
+[4.89s] (vi – Vietnamese) SPEAKER_00: Tham dự đại hội đồng.
+[6.61s] (vi – Vietnamese) SPEAKER_00: Thứ 12
+[7.79s] (vi – Vietnamese) SPEAKER_00: của tổ chức giáo dục.
+[9.43s] (zh – Chinese) SPEAKER_00: 跨好
+[10.19s] (vi – Vietnamese) SPEAKER_00: và văn hóa Liên Hiệp Quốc.
+[12.28s] (vi – Vietnamese) SPEAKER_00: Tôi rất sung sướng được dịp trình bày với quý đồng bào.
+[15.07s] (vi – Vietnamese) SPEAKER_00: đối chút cảm tượng riêng.
+[16.65s] (vi – Vietnamese) SPEAKER_00: về khoa học này.
+[18.73s] (id – Indonesian) SPEAKER_00: Duket?
+[19.99s] (vi – Vietnamese) SPEAKER_00: Tôi cần phải nói ngay.
+[21.31s] (vi – Vietnamese) SPEAKER_00: là tôi đã từng dự nhiều khóa học của tổ chức UNESCO.
+[24.99s] (vi – Vietnamese) SPEAKER_00: trước khi đảm nhận trọng trách Bộ trưởng Quốc gia Giáo dục.
+[28.26s] (vi – Vietnamese) SPEAKER_00: với tư cách viện trường Viện Đại học Sài Gòn.
+[30.63s] (vi – Vietnamese) SPEAKER_00: Tôi vẫn hẳn theo dõi công việc của tổ chức này.
+[33.83s] (vi – Vietnamese) SPEAKER_00: Sự thức
+[34.91s] (vi – Vietnamese) SPEAKER_00: Một đôi khi
+[36.28s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi hoài nghi trước những công cuộc lên lao.
+[39.32s] (vi – Vietnamese) SPEAKER_00: mà tổ chức có tham vọng hoàn thành.
+[42.20s] (vi – Vietnamese) SPEAKER_00: Chẳng hàm,
+[43.16s] (vi – Vietnamese) SPEAKER_00: Tôi được tự hỏi không biết tổ chức UNESCO sẽ làm thế nào.
+[46.29s] (vi – Vietnamese) SPEAKER_00: để thực hiện sự công tác quốc tế hiệu lực.
+[49.05s] (vi – Vietnamese) SPEAKER_00: trong lãnh vực giáo dục khoa học và văn hóa.
+[51.62s] (vi – Vietnamese) SPEAKER_00: giữa lúc tình hình thế giới đang bị căng thẳng.
+[54.76s] (vi – Vietnamese) SPEAKER_00: Liệu rằng
+[55.62s] (vi – Vietnamese) SPEAKER_00: Những sự mâu thuần chính trị có làm tan vỡ cơ quan quốc tế này không?
+[59.62s] (vi – Vietnamese) SPEAKER_00: muốn cho những cuộc thảo luận ở diện đàn UNESCO
+[62.59s] (vi – Vietnamese) SPEAKER_00: dự vận tính cách trang nghiêm và xây dựng
+[65.27s] (vi – Vietnamese) SPEAKER_00: cần thiết cho mọi cuộc hội họp văn hóa.
+[67.73s] (vi – Vietnamese) SPEAKER_00: Tôi cho rằng phải triệt đệ gạt bỏ.
+[69.88s] (vi – Vietnamese) SPEAKER_00: những đề tài có mục đích tuyên truyền
+[72.10s] (vi – Vietnamese) SPEAKER_00: Cho hội cộng sản
+[73.81s] (en – English) SPEAKER_00: Viva.
+[74.65s] (vi – Vietnamese) SPEAKER_00: Tôi không khỏi lo ngại khi thấy có một số vấn đề
+[77.88s] (vi – Vietnamese) SPEAKER_00: như vấn đề sống chung hòa bình
+[80.31s] (vi – Vietnamese) SPEAKER_00: vấn đề xóa bỏ tàn tích của chế độ thực dân.
+[83.19s] (vi – Vietnamese) SPEAKER_00: hoặc vấn đề tài binh toàn diện.
+[85.49s] (vi – Vietnamese) SPEAKER_00: Đã được nêu lên
+[86.68s] (vi – Vietnamese) SPEAKER_00: Họ ký vào chương trình nghị sự.
+[88.64s] (vi – Vietnamese) SPEAKER_00: Theo tuyển ý chúng tôi,
+[90.08s] (vi – Vietnamese) SPEAKER_00: Nếu đại hội đồng UNESCO đi vào con đường này,
+[92.89s] (vi – Vietnamese) SPEAKER_00: tức là trái ngược với tôn trị của tổ chức.
+[96.12s] (vi – Vietnamese) SPEAKER_00: chúng ta sẽ thấy quan cảnh nạo lòng
+[98.40s] (vi – Vietnamese) SPEAKER_00: là những nhà văn hóa
+[99.85s] (vi – Vietnamese) SPEAKER_00: Những bậc học giả
+[101.10s] (vi – Vietnamese) SPEAKER_00: Nhưng vì lãnh đạo giáo dục.
+[102.68s] (en – English) SPEAKER_00: London
+[103.44s] (id – Indonesian) SPEAKER_00: Lontiang
+[104.34s] (vi – Vietnamese) SPEAKER_00: châm biếm lẫn nhau.
+[105.55s] (vi – Vietnamese) SPEAKER_00: mặt sát lẫn nhau về những vấn đề hoàn toàn
+[108.47s] (vi – Vietnamese) SPEAKER_00: ra ngoài thẩm quyền của tổ chức UNESCO.
+[111.52s] (zh – Chinese) SPEAKER_00: 麥苔
+[112.54s] (vi – Vietnamese) SPEAKER_00: Trong khóa học đương thời, tôi vui vẻ thấy rằng
+[115.46s] (vi – Vietnamese) SPEAKER_00: Lệ phải vẫn luôn luôn đắc thắng.
+[117.50s] (vi – Vietnamese) SPEAKER_00: Đại đa số các quốc gia, trong đó đặc biệt nhất là những quốc gia mới độc lập.
+[121.99s] (vi – Vietnamese) SPEAKER_00: đã biết dự vựng lập trường văn hóa của UNESCO.
+[124.92s] (vi – Vietnamese) SPEAKER_00: chống lại mọi mơ mô chính trị hóa.
+[127.72s] (vi – Vietnamese) SPEAKER_00: Mặc dù vậy
+[128.75s] (vi – Vietnamese) SPEAKER_00: Hội đồng đã mất khá nhiều thời giờ trong suốt 5-6 ngày đầu.
+[132.04s] (vi – Vietnamese) SPEAKER_00: vì những cuộc tranh luận sôi nổi đó.
+[135.50s] (fr – French) SPEAKER_00: Moi, j'ai...
+[136.80s] (vi – Vietnamese) SPEAKER_00: Một nội thắc mắc khác của tôi liên quan tới sự bành trướng quá mau lẻ của tổ chức UNESCO.
+[143.18s] (vi – Vietnamese) SPEAKER_00: Năm 1945
+[144.95s] (vi – Vietnamese) SPEAKER_00: khi tổ chức mới thành lập.
+[146.57s] (vi – Vietnamese) SPEAKER_00: Số hội viên là 20 quốc gia.
+[149.27s] (vi – Vietnamese) SPEAKER_00: Đầu năm 1960,
+[151.33s] (vi – Vietnamese) SPEAKER_00: Số đó lên tới 82.
+[153.58s] (vi – Vietnamese) SPEAKER_00: Và đến năm nay,
+[154.69s] (vi – Vietnamese) SPEAKER_00: Đã có 113 quốc gia được nhận làm hội viên thực thủ của tổ chức.
+[159.04s] (vi – Vietnamese) SPEAKER_00: Với con số lớn lao,
+[160.43s] (vi – Vietnamese) SPEAKER_00: Này
+[161.25s] (vi – Vietnamese) SPEAKER_00: UNESCO đã biến thành một diện đàn quốc tế vĩ đại.
+[164.61s] (vi – Vietnamese) SPEAKER_00: vượt hẳn Liên Hiệp Quốc.
+[166.32s] (vi – Vietnamese) SPEAKER_00: Có nhiều nước chưa thể.
+[167.79s] (vi – Vietnamese) SPEAKER_00: hoặc chưa xin gia nhập Liên Hiệp Quốc.
+[169.81s] (vi – Vietnamese) SPEAKER_00: nhưng đã được nhận hoặc tự ý gia nhập UNESCO.
+[173.59s] (vi – Vietnamese) SPEAKER_00: Đây là một điều
+[175.09s] (vi – Vietnamese) SPEAKER_00: Đáng mừng!
+[176.26s] (vi – Vietnamese) SPEAKER_00: vì nó chứng tỏ rằng các dân tộc
+[178.15s] (vi – Vietnamese) SPEAKER_00: Trong thế giới
+[179.16s] (vi – Vietnamese) SPEAKER_00: đều thành thực tin tưởng ở tương lai của UNESCO.
+[181.98s] (vi – Vietnamese) SPEAKER_00: đều hy vọng rằng UNESCO có thể thúc đẩy.
+[184.51s] (vi – Vietnamese) SPEAKER_00: nhịp tiến bộ giáo dục.
+[186.16s] (vi – Vietnamese) SPEAKER_00: Khoa học và văn hóa
+[188.56s] (vi – Vietnamese) SPEAKER_00: Tuy nhiên,
+[189.52s] (zh – Chinese) SPEAKER_00: 挑点1
+[190.50s] (en – English) SPEAKER_00: note
+[191.28s] (vi – Vietnamese) SPEAKER_00: Chị chú trồng đến lượng mà không chú trồng đến phẩm.
+[194.14s] (vi – Vietnamese) SPEAKER_00: Tức là đi vào con đường lầm lạc.
+[197.28s] (vi – Vietnamese) SPEAKER_00: Có nhiều vị đại biểu đã đề cao nguyên tắc đại đồng.
+[200.64s] (vi – Vietnamese) SPEAKER_00: và hiểu nguyên tắc này một cách rất nông thiện.
+[203.56s] (zh – Chinese) SPEAKER_00: 好 教长
+[204.56s] (vi – Vietnamese) SPEAKER_00: tất cả các khuyến hướng văn hóa.
+[206.56s] (vi – Vietnamese) SPEAKER_00: tất cả các màu sắc tinh thần.
+[208.84s] (vi – Vietnamese) SPEAKER_00: cần được đại diện ở UNESCO.
+[210.88s] (en – English) SPEAKER_00: New weight.
+[211.74s] (vi – Vietnamese) SPEAKER_00: Tức là quên mất rằng.
+[213.09s] (vi – Vietnamese) SPEAKER_00: UNESCO có một sứ mạng rất cao cả.
+[215.64s] (vi – Vietnamese) SPEAKER_00: đó là bảo vệ và phát huy những giá trị văn hóa thiên liêng
+[219.17s] (vi – Vietnamese) SPEAKER_00: của nhân loại.
+[220.37s] (vi – Vietnamese) SPEAKER_00: Nếu chấp nhận tất cả các khuyến hướng tinh thần
+[222.85s] (vi – Vietnamese) SPEAKER_00: kể cả những lực lượng khai dị làm thương tổn nhân phẩm.
+[225.99s] (vi – Vietnamese) SPEAKER_00: thì liệu rằng UNESCO
+[227.42s] (vi – Vietnamese) SPEAKER_00: Còn làm tròn sứ mạng của mình nữa không?
+[229.68s] (vi – Vietnamese) SPEAKER_00: Dĩ nhiên là không.
+[231.20s] (en – English) SPEAKER_00: Viva.
+[231.98s] (vi – Vietnamese) SPEAKER_00: Cho nên mỗi khi một quốc gia muốn gia nhập tổ chức UNESCO
+[235.66s] (vi – Vietnamese) SPEAKER_00: Theo ý chúng tôi,
+[236.62s] (vi – Vietnamese) SPEAKER_00: thì ta cần phải xét xem quốc gia đó
+[238.86s] (vi – Vietnamese) SPEAKER_00: cố tuân theo những nguyên tắc căn bản của nền văn minh.
+[241.92s] (vi – Vietnamese) SPEAKER_00: như nguyên tắc trách nhiệm cá nhân,
+[243.86s] (vi – Vietnamese) SPEAKER_00: và nguyên tắc tôn trọng nhân vị không đã.
+[246.86s] (vi – Vietnamese) SPEAKER_00: Thủ tục gia nhập.
+[248.21s] (vi – Vietnamese) SPEAKER_00: Như thế thì phải chặt chẽ, chứ không có thể dễ dàng quá được.
+[253.76s] (vi – Vietnamese) SPEAKER_00: Một nhận xét thứ ba
+[255.08s] (vi – Vietnamese) SPEAKER_00: đã khiến cho chúng tôi
+[256.99s] (vi – Vietnamese) SPEAKER_00: Khá lạ quan.
+[258.32s] (vi – Vietnamese) SPEAKER_00: đó là tinh thần cộng tác chân thành giữa các quốc gia.
+[262.03s] (vi – Vietnamese) SPEAKER_00: À cũng biết
+[263.11s] (vi – Vietnamese) SPEAKER_00: các quốc gia hội viên của UNESCO không phải đều quan trọng ngang nhau.
+[266.59s] (vi – Vietnamese) SPEAKER_00: có những nước rất lớn hoặc rất giàu.
+[268.77s] (vi – Vietnamese) SPEAKER_00: bên cạnh những nước bé nhỏ
+[270.42s] (vi – Vietnamese) SPEAKER_00: hoặc kém mở mang.
+[271.77s] (vi – Vietnamese) SPEAKER_00: Phần góp của mỗi nước đã được ấn định tùy theo dân số và lợi tức.
+[276.16s] (da – Danish) SPEAKER_00: Dine vedveje.
+[277.22s] (vi – Vietnamese) SPEAKER_00: mà một đôi khi sự mâu thuẫn quyền lợi đã xuất hiện.
+[280.17s] (fr – French) SPEAKER_00: Bisous.
+[281.00s] (ko – Korean) SPEAKER_00: 정국국
+[281.78s] (vi – Vietnamese) SPEAKER_00: Thảo luận vừa qua về mức ngân sách tối đa của tài khoá 1963-64
+[287.97s] (vi – Vietnamese) SPEAKER_00: các quốc gia
+[289.07s] (vi – Vietnamese) SPEAKER_00: đã phân chia thành 3 nhóm
+[290.96s] (vi – Vietnamese) SPEAKER_00: một thiệu số chủ trương hạ thấp mực tối đa.
+[293.72s] (vi – Vietnamese) SPEAKER_00: xuống 34 triệu Mỹ Kim.
+[295.82s] (vi – Vietnamese) SPEAKER_00: một thiệu số khác bằng lòng mừng.
+[298.20s] (en – English) SPEAKER_00: Number
+[299.24s] (vi – Vietnamese) SPEAKER_00: tối đa lên 38 triệu.
+[301.44s] (vi – Vietnamese) SPEAKER_00: Trong khi đó
+[302.26s] (vi – Vietnamese) SPEAKER_00: Đa số các quốc gia kém mở mang chủ trương.
+[304.98s] (vi – Vietnamese) SPEAKER_00: nâng mức tối đa
+[306.13s] (vi – Vietnamese) SPEAKER_00: tới non 41 triệu.
+[308.52s] (vi – Vietnamese) SPEAKER_00: Cuộc bàn cãi
+[309.79s] (vi – Vietnamese) SPEAKER_00: trở nên cực kỳ gai go.
+[311.26s] (vi – Vietnamese) SPEAKER_00: Nếu ai nấy đều giữ vững lập trường.
+[313.18s] (vi – Vietnamese) SPEAKER_00: dĩ nhiên sẽ không thể nào đi tới một quyết định chung.
+[316.67s] (vi – Vietnamese) SPEAKER_00: Mai thay
+[317.96s] (vi – Vietnamese) SPEAKER_00: nhờ tài ngoại giao.
+[319.54s] (vi – Vietnamese) SPEAKER_00: của ông chủ tịch Đại hội đồng.
+[321.28s] (vi – Vietnamese) SPEAKER_00: và ông tổng giám đốc UNESCO
+[323.42s] (vi – Vietnamese) SPEAKER_00: nhờ tinh thần công tác của các quốc gia.
+[325.99s] (vi – Vietnamese) SPEAKER_00: Một giải pháp dung hòa đã được chấp thuận.
+[328.20s] (vi – Vietnamese) SPEAKER_00: tổ chức UNESCO đã thoát khỏi một cuộc khủng hoảng.
+[331.91s] (vi – Vietnamese) SPEAKER_00: Điều này
+[333.23s] (vi – Vietnamese) SPEAKER_00: chứng tỏ rằng các quốc gia nhược tiểu.
+[335.40s] (vi – Vietnamese) SPEAKER_00: Tôi nắm đa số
+[336.74s] (vi – Vietnamese) SPEAKER_00: nhưng luôn luôn hiểu rõ quyền lợi chung.
+[338.88s] (vi – Vietnamese) SPEAKER_00: Và nếu cần
+[339.74s] (vi – Vietnamese) SPEAKER_00: thì vẫn sẵn sàng bại bỏ những yếu sách quá đáng.
+[343.03s] (vi – Vietnamese) SPEAKER_00: Tinh thần nhân nhượng.
+[344.31s] (vi – Vietnamese) SPEAKER_00: và thiện ti ấy.
+[345.38s] (vi – Vietnamese) SPEAKER_00: cho phép ta nhìn tương lai.
+[346.95s] (vi – Vietnamese) SPEAKER_00: Với một con mắt
+[347.82s] (id – Indonesian) SPEAKER_00: Tentu
+[349.88s] (vi – Vietnamese) SPEAKER_00: Riêng về phép Việt Nam năm nay,
+[352.38s] (vi – Vietnamese) SPEAKER_00: Tôi có cảm tượng là phái đoạn chúng tôi
+[355.22s] (id – Indonesian) SPEAKER_00: D'agob
+[355.99s] (vi – Vietnamese) SPEAKER_00: một phần khá quan trọng vào công cuộc
+[358.34s] (vi – Vietnamese) SPEAKER_00: Công cuộc.
+[359.30s] (vi – Vietnamese) SPEAKER_00: của khoa học này.
+[361.02s] (vi – Vietnamese) SPEAKER_00: tất cả các nhân viên trong phái đoàn.
+[363.21s] (vi – Vietnamese) SPEAKER_00: đều tham dự tích cực vào sự điều hành của đại hội.
+[366.24s] (vi – Vietnamese) SPEAKER_00: và của các tiểu ban.
+[368.41s] (zh – Chinese) SPEAKER_00: 替你
+[369.21s] (no – Norwegian) SPEAKER_00: Jeg har sjov og godt tro.
+[370.23s] (vi – Vietnamese) SPEAKER_00: đại dự trách nhiệm chủ tịch ủy ban tư vấn của Trung tâm Khoạch trường Kinh tế và Xã hội Đông Nam Á.
+[376.11s] (vi – Vietnamese) SPEAKER_00: Ông Trần Văn Minh
+[377.25s] (vi – Vietnamese) SPEAKER_00: thì nhận chức vụ Phó Chủ tịch Ủy ban trao đổi văn hóa quốc tế.
+[381.03s] (vi – Vietnamese) SPEAKER_00: ông Đỗ Ba Khê
+[382.20s] (vi – Vietnamese) SPEAKER_00: thì được cử làm Phó Chủ tịch Ủy ban Hành tránh.
+[385.05s] (vi – Vietnamese) SPEAKER_00: Ông Trần Ba Chức
+[386.25s] (vi – Vietnamese) SPEAKER_00: được bầu làm Phó Chủ tịch Ủy ban Giáo dục.
+[388.80s] (vi – Vietnamese) SPEAKER_00: Ông Nguyễn Đình Hòa
+[389.88s] (vi – Vietnamese) SPEAKER_00: thì được đạm nhận trong trách
+[391.65s] (de – German) SPEAKER_00: Natürlich, Viren.
+[393.32s] (vi – Vietnamese) SPEAKER_00: ở Tiểu ban nghiên cứu luật lệ quốc tế.
+[395.75s] (fr – French) SPEAKER_00: Vichu.
+[396.48s] (vi – Vietnamese) SPEAKER_00: xuất nhập cảng.
+[397.52s] (vi – Vietnamese) SPEAKER_00: và mua bán len lút các văn hóa phẩm.
+[400.63s] (de – German) SPEAKER_00: Ding weh!
+[401.47s] (vi – Vietnamese) SPEAKER_00: Mỗi nhân viên trong phái đoàn đều phải càng đáng một chức vụ ở khoa học.
+[405.18s] (vi – Vietnamese) SPEAKER_00: cho nên chúng tôi đã cực kỳ bận rộn.
+[407.36s] (en – English) SPEAKER_00: Do you like
+[408.25s] (vi – Vietnamese) SPEAKER_00: Tất cả phái đoàn đều hài lòng.
+[410.13s] (vi – Vietnamese) SPEAKER_00: vì được các vị đại biểu khác tin nhiệm.
+[412.73s] (vi – Vietnamese) SPEAKER_00: Đó không phải chỉ là một vinh dự riêng cho chúng tôi.
+[415.12s] (vi – Vietnamese) SPEAKER_00: Mặc quả là một vinh dự chung.
+[416.74s] (vi – Vietnamese) SPEAKER_00: cho toàn thể chính phủ và dân tộc Việt Nam đó.
+[419.58s] (vi – Vietnamese) SPEAKER_00: Tôi trân trọng kính chào quý đồng bào.

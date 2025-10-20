@@ -84,7 +84,7 @@ An initial study (RA03A) developed a transcription and summarization pipeline. H
 
 The pipeline consists of four main stages:
 
-<p align="center"> <!-- NOTE: Replace with the path to the workflow diagram in your repository --> <img src="path/to/your/workflow-diagram.png" alt="InterPARES-Audio Workflow Diagram" width="800"/> </p>
+<p align="center"> <!-- NOTE: Replace with the path to the workflow diagram in your repository --> <img src="IntePARES_Audio_workflow.png" alt="InterPARES-Audio Workflow Diagram" width="800"/> </p>
 
 1.  **Speaker Diarization and Segmentation**: The long audio input is processed to identify speaker changes and segment the audio into a sequence of individual utterances, each tagged with a speaker ID.
     

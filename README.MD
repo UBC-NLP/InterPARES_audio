@@ -2,7 +2,7 @@
 <img src="https://dlnlp.ai/img/InterPARES_Audio.jpg" alt="InterPARES_Audio.jpg" width="35%" height="25%" align="right"/>
 </center>
 
-# InterPARES-Audio: Multilingual Audio Analysis
+# Multilingual Audio Analysis
 
 **InterPARES-Audio** is a sophisticated system designed to listen, transcribe, translate, and analyze complex audio recordings. It is built to handle files with multiple speakers conversing in different languages, making it the ideal tool for processing archives of meetings, interviews, and panel discussions.
 
@@ -11,9 +11,7 @@
 -   **Live Demo:** [**demos.dlnlp.ai/InterPARES/**](https://demos.dlnlp.ai/InterPARES/ "null")
     
 -   **Jupyter Notebook:** [**multilingual_audio_analysis.ipynb**](https://github.com/UBC-NLP/InterPARES_audio/blob/main/multilingual_audio_analysis.ipynb "null")
-    
--   **GitHub Repo:** [**UBC-NLP/InterPARES_audio**](https://github.com/UBC-NLP/InterPARES_audio "null")
-    
+        
 **InterPARES-Audio (RA03A Redux)** is an extension of that work, designed to build a top-line system that focuses on:
 
 1.  **Building a Multilingual Benchmark:** To properly evaluate models on this complex data.

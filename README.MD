@@ -12,12 +12,13 @@
     
 -   **Jupyter Notebook:** [**multilingual_audio_analysis.ipynb**](https://github.com/UBC-NLP/InterPARES_audio/blob/main/multilingual_audio_analysis.ipynb "null")
         
-**InterPARES-Audio (RA03A Redux)** is an extension of that work, designed to build a top-line system that focuses on:
+**InterPARES-Audio ** designed to build a top-line system that focuses on:
 
-1.  **Building a Multilingual Benchmark:** To properly evaluate models on this complex data.
-    
-2.  **A Validated Pipeline:** To perform high-quality summarization and information extraction, especially for multilingual recordings.
-    
+- **Speaker Diarization:** To identify and separate different speakers in an audio recording, even when they switch languages.</li>
+
+- **Robust Transcription and Translation:** To accurately transcribe spoken words and translate them into a target language, preserving meaning across linguistic boundaries.</li>
+
+- **Summarization:** To generate concise summaries that capture the essence of multi-speaker conversations, highlighting key points and decisions made.</li>       
 
 ## Key Features
 
@@ -31,18 +32,15 @@
     
 -   **Structured Multilingual Output:** Generates clean, organized reports in Arabic, English, French, Spanish, German, and Italian. The reports include:
     
-    -   An executive summary
-        
-    -   Speaker profiles (ID, predicted name, role, key contributions)
-        
-    -   Main topics discussed
-        
-    -   Decisions made
-        
-    -   Action items
-        
-    -   Key insights
-        
+      - Speaker profiles with predicted names and roles
+
+      - Main topics discussed
+
+      - Decisions made during the conversation
+
+      - Action items assigned to participants
+
+      - Key insights and takeaways from the discussion
 
 ## Workflow
 

@@ -58,6 +58,11 @@ The pipeline consists of four main stages:
 4.  **LLM Analysis**: The structured text chunks are analyzed by an LLM to transform raw transcript data into a meaningful and actionable structured report.
     
 
+## Online Demo
+
+**Live Demo:** [**demos.dlnlp.ai/InterPARES/**](https://demos.dlnlp.ai/InterPARES/ "null")
+<img src="https://demos.dlnlp.ai/InterPARES/interpars_audio_demo.png">
+            
 
 ## Examples
  [Meeting report, Markdown](https://github.com/UBC-NLP/InterPARES_audio/blob/main/meeting_reports/A05195/meeting_analysis_A05195-20251010_174134-English.md)

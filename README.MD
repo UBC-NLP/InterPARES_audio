@@ -75,7 +75,7 @@ This pipeline integrates state-of-the-art deep learning models to handle the com
     * Provides timestamps that align with the diarization segments.
 
 ### 3. LLM Analysis & Summarization
-* **Model:** Large Language Models ([*openai/gpt-oss-20b**](https://huggingface.co/openai/gpt-oss-20b))
+* **Model:** Large Language Models ([openai/gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b))
 * **Function:** Processes the raw, diarized transcripts to generate structured outputs.
 * **Output Generation:** * Contextualizes the conversation.
     * Extracts action items, decisions, and summaries.

@@ -63,19 +63,19 @@ The pipeline consists of four main stages:
 This pipeline integrates state-of-the-art deep learning models to handle the complexity of multilingual, multi-speaker audio environments.
 
 ### 1. Speaker Diarization
-* **Model:** [Pyannote Audio](https://github.com/pyannote/pyannote-audio) (e.g., `pyannote/speaker-diarization-3.1`)
+* **Model:** [Pyannote Audio](https://huggingface.co/pyannote/speaker-diarization-3.1) (e.g., `pyannote/speaker-diarization-3.1`)
 * **Function:** Responsible for the "Who Spoke When" task. It generates time-stamped speaker segments, distinguishing between different participants in the meeting even amidst interruptions or overlaps.
 * **Why it's used:** Pyannote is currently the industry standard for open-source diarization, offering high accuracy in clustering speaker embeddings.
 
 ### 2. Multilingual ASR & LID (Language Identification)
-* **Model:** [OpenAI Whisper](https://github.com/openai/whisper) (e.g., `large-v3` architecture)
+* **Model:** [OpenAI Whisper](https://huggingface.co/openai/whisper-large-v3) (e.g., `large-v3` architecture)
 * **Function:** Performs robust Speech-to-Text (STT) transcription and automatic Language Identification (LID). 
 * **Capabilities:** * Handles noisy audio effectively.
     * Automatically detects language switches (e.g., switching from English to Arabic or French).
     * Provides timestamps that align with the diarization segments.
 
 ### 3. LLM Analysis & Summarization
-* **Model:** Large Language Models (e.g., **openai/gpt-oss-20b**)
+* **Model:** Large Language Models ([*openai/gpt-oss-20b**](https://huggingface.co/openai/gpt-oss-20b))
 * **Function:** Processes the raw, diarized transcripts to generate structured outputs.
 * **Output Generation:** * Contextualizes the conversation.
     * Extracts action items, decisions, and summaries.

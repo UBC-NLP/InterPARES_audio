@@ -58,6 +58,29 @@ The pipeline consists of four main stages:
 4.  **LLM Analysis**: The structured text chunks are analyzed by an LLM to transform raw transcript data into a meaningful and actionable structured report.
     
 
+## Models & Technologies
+
+This pipeline integrates state-of-the-art deep learning models to handle the complexity of multilingual, multi-speaker audio environments.
+
+### 1. Speaker Diarization
+* **Model:** [Pyannote Audio](https://github.com/pyannote/pyannote-audio) (e.g., `pyannote/speaker-diarization-3.1`)
+* **Function:** Responsible for the "Who Spoke When" task. It generates time-stamped speaker segments, distinguishing between different participants in the meeting even amidst interruptions or overlaps.
+* **Why it's used:** Pyannote is currently the industry standard for open-source diarization, offering high accuracy in clustering speaker embeddings.
+
+### 2. Multilingual ASR & LID (Language Identification)
+* **Model:** [OpenAI Whisper](https://github.com/openai/whisper) (e.g., `large-v3` architecture)
+* **Function:** Performs robust Speech-to-Text (STT) transcription and automatic Language Identification (LID). 
+* **Capabilities:** * Handles noisy audio effectively.
+    * Automatically detects language switches (e.g., switching from English to Arabic or French).
+    * Provides timestamps that align with the diarization segments.
+
+### 3. LLM Analysis & Summarization
+* **Model:** Large Language Models (e.g., **openai/gpt-oss-20b**)
+* **Function:** Processes the raw, diarized transcripts to generate structured outputs.
+* **Output Generation:** * Contextualizes the conversation.
+    * Extracts action items, decisions, and summaries.
+    * Translates the final report into the user's requested target language (Arabic, English, French, Spanish, German, Italian) while preserving the nuance of the original discussion.
+
 ## Online Demo
 
 **Live Demo:** [**demos.dlnlp.ai/InterPARES/**](https://demos.dlnlp.ai/InterPARES/ "null")

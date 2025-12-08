@@ -63,7 +63,9 @@ The pipeline consists of four main stages:
 This pipeline integrates state-of-the-art deep learning models to handle the complexity of multilingual, multi-speaker audio environments.
 
 ### 1. Speaker Diarization
-* **Model:** [Pyannote Audio](https://huggingface.co/pyannote/speaker-diarization-3.1) (e.g., `pyannote/speaker-diarization-3.1`)
+* **Model Name:** `pyannote/speaker-diarization-3.1`
+* **Model Card:** [Pyannote Speaker Diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
+* ** Publications** [InterSpeech 2023 (Alexis Plaquet and Hervé Bredin)](https://www.isca-archive.org/interspeech_2023/plaquet23_interspeech.pdf) and [InterSpeech 2023 (Hervé Bredin))](https://www.isca-archive.org/interspeech_2023/bredin23_interspeech.html)
 * **Function:** Responsible for the "Who Spoke When" task. It generates time-stamped speaker segments, distinguishing between different participants in the meeting even amidst interruptions or overlaps.
 * **Why it's used:** Pyannote is currently the industry standard for open-source diarization, offering high accuracy in clustering speaker embeddings.
 

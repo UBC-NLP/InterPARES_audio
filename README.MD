@@ -65,18 +65,24 @@ This pipeline integrates state-of-the-art deep learning models to handle the com
 ### 1. Speaker Diarization
 * **Model Name:** `pyannote/speaker-diarization-3.1`
 * **Model Card:** [Pyannote Speaker Diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
-* ** Publications** [InterSpeech 2023 (Alexis Plaquet and Hervé Bredin)](https://www.isca-archive.org/interspeech_2023/plaquet23_interspeech.pdf) and [InterSpeech 2023 (Hervé Bredin))](https://www.isca-archive.org/interspeech_2023/bredin23_interspeech.html)
+* **Publications** [Powerset Multi-Class Cross Entropy Loss for Neural Speaker Diarization](https://www.isca-archive.org/interspeech_2023/plaquet23_interspeech.pdf) and [pyannote.audio 2.1 Speaker Diarization Pipeline: Principle, Benchmark, and Recipe](https://www.isca-archive.org/interspeech_2023/bredin23_interspeech.html)
 * **Function:** Responsible for the "Who Spoke When" task. It generates time-stamped speaker segments, distinguishing between different participants in the meeting even amidst interruptions or overlaps.
 * **Why it's used:** Pyannote is currently the industry standard for open-source diarization, offering high accuracy in clustering speaker embeddings.
 
 ### 2. Multilingual ASR & LID (Language Identification)
-* **Model:** [OpenAI Whisper](https://huggingface.co/openai/whisper-large-v3) (e.g., `large-v3` architecture)
+* **Model Name:** `openai/whisper-large-v3`
+* **Model Card:** [OpenAI Whisper large-v3](https://huggingface.co/openai/whisper-large-v3)
+* **Publications** [Robust Speech Recognition via Large-Scale Weak Supervision)](https://arxiv.org/abs/2212.04356)
 * **Function:** Performs robust Speech-to-Text (STT) transcription and automatic Language Identification (LID). 
 * **Capabilities:** * Handles noisy audio effectively.
     * Automatically detects language switches (e.g., switching from English to Arabic or French).
     * Provides timestamps that align with the diarization segments.
 
 ### 3. LLM Analysis & Summarization
+* **Model Name:** `openai/gpt-oss-20b` 
+* **Model Card:** [OpenAI GPT-OSS 20B](https://huggingface.co/openai/gpt-oss-20b)
+* **Publications** [gpt-oss-120b & gpt-oss-20b Model Card](https://arxiv.org/abs/2508.10925)
+
 * **Model:** Large Language Models ([openai/gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b))
 * **Function:** Processes the raw, diarized transcripts to generate structured outputs.
 * **Output Generation:** 
